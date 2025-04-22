@@ -1,0 +1,504 @@
+ID,Interval,Num_Fluxos,Bandwidth_Total,Fluxos_Detalhes
+0,0.0000-1.0000,4,3.39453125,Fluxo 1: 0.849 Mbits/s; Fluxo 2: 0.849 Mbits/s; Fluxo 3: 0.849 Mbits/s; Fluxo 4: 0.849 Mbits/s
+0,1.0000-2.0000,4,15.23,Fluxo 1: 4.070 Mbits/s; Fluxo 2: 4.070 Mbits/s; Fluxo 3: 3.020 Mbits/s; Fluxo 4: 4.070 Mbits/s
+0,2.0000-3.0000,4,28.17,Fluxo 1: 6.780 Mbits/s; Fluxo 2: 6.780 Mbits/s; Fluxo 3: 7.830 Mbits/s; Fluxo 4: 6.780 Mbits/s
+0,3.0000-4.0000,4,54.2,Fluxo 1: 10.400 Mbits/s; Fluxo 2: 10.400 Mbits/s; Fluxo 3: 10.400 Mbits/s; Fluxo 4: 23.000 Mbits/s
+0,4.0000-5.0000,4,35.9,Fluxo 1: 8.860 Mbits/s; Fluxo 2: 8.860 Mbits/s; Fluxo 3: 8.860 Mbits/s; Fluxo 4: 9.320 Mbits/s
+0,5.0000-6.0000,4,40.15,Fluxo 1: 9.380 Mbits/s; Fluxo 2: 7.290 Mbits/s; Fluxo 3: 9.380 Mbits/s; Fluxo 4: 14.100 Mbits/s
+0,6.0000-7.0000,4,28.65,Fluxo 1: 5.210 Mbits/s; Fluxo 2: 7.310 Mbits/s; Fluxo 3: 5.730 Mbits/s; Fluxo 4: 10.400 Mbits/s
+0,7.0000-8.0000,4,47.1,Fluxo 1: 11.500 Mbits/s; Fluxo 2: 11.500 Mbits/s; Fluxo 3: 11.000 Mbits/s; Fluxo 4: 13.100 Mbits/s
+0,8.0000-9.0000,4,45.29,Fluxo 1: 8.840 Mbits/s; Fluxo 2: 6.750 Mbits/s; Fluxo 3: 12.000 Mbits/s; Fluxo 4: 17.700 Mbits/s
+0,9.0000-10.0000,4,44.28,Fluxo 1: 10.400 Mbits/s; Fluxo 2: 12.500 Mbits/s; Fluxo 3: 6.780 Mbits/s; Fluxo 4: 14.600 Mbits/s
+0,10.0000-11.0000,4,50.1,Fluxo 1: 11.500 Mbits/s; Fluxo 2: 11.500 Mbits/s; Fluxo 3: 12.000 Mbits/s; Fluxo 4: 15.100 Mbits/s
+0,11.0000-12.0000,4,47.92,Fluxo 1: 7.270 Mbits/s; Fluxo 2: 6.750 Mbits/s; Fluxo 3: 10.900 Mbits/s; Fluxo 4: 23.000 Mbits/s
+0,12.0000-13.0000,4,53.73,Fluxo 1: 11.000 Mbits/s; Fluxo 2: 11.500 Mbits/s; Fluxo 3: 7.830 Mbits/s; Fluxo 4: 23.400 Mbits/s
+0,13.0000-14.0000,4,72.1,Fluxo 1: 15.700 Mbits/s; Fluxo 2: 15.700 Mbits/s; Fluxo 3: 14.100 Mbits/s; Fluxo 4: 26.600 Mbits/s
+0,14.0000-15.0000,4,47.9,Fluxo 1: 8.840 Mbits/s; Fluxo 2: 8.860 Mbits/s; Fluxo 3: 13.000 Mbits/s; Fluxo 4: 17.200 Mbits/s
+0,15.0000-16.0000,4,98.69999999999999,Fluxo 1: 20.400 Mbits/s; Fluxo 2: 20.900 Mbits/s; Fluxo 3: 27.700 Mbits/s; Fluxo 4: 29.700 Mbits/s
+0,16.0000-17.0000,4,90.4,Fluxo 1: 25.600 Mbits/s; Fluxo 2: 25.000 Mbits/s; Fluxo 3: 14.600 Mbits/s; Fluxo 4: 25.200 Mbits/s
+0,17.0000-18.0000,4,81.0,Fluxo 1: 15.100 Mbits/s; Fluxo 2: 14.600 Mbits/s; Fluxo 3: 26.800 Mbits/s; Fluxo 4: 24.500 Mbits/s
+0,18.0000-19.0000,4,78.2,Fluxo 1: 16.800 Mbits/s; Fluxo 2: 19.300 Mbits/s; Fluxo 3: 16.500 Mbits/s; Fluxo 4: 25.600 Mbits/s
+0,19.0000-20.0000,4,43.64,Fluxo 1: 10.800 Mbits/s; Fluxo 2: 7.440 Mbits/s; Fluxo 3: 14.700 Mbits/s; Fluxo 4: 10.700 Mbits/s
+0,20.0000-21.0000,4,126.6,Fluxo 1: 34.600 Mbits/s; Fluxo 2: 29.400 Mbits/s; Fluxo 3: 29.400 Mbits/s; Fluxo 4: 33.200 Mbits/s
+0,21.0000-22.0000,4,90.6,Fluxo 1: 15.000 Mbits/s; Fluxo 2: 24.800 Mbits/s; Fluxo 3: 28.800 Mbits/s; Fluxo 4: 22.000 Mbits/s
+0,22.0000-23.0000,4,85.9,Fluxo 1: 15.600 Mbits/s; Fluxo 2: 19.700 Mbits/s; Fluxo 3: 20.500 Mbits/s; Fluxo 4: 30.100 Mbits/s
+0,23.0000-24.0000,4,92.3,Fluxo 1: 17.800 Mbits/s; Fluxo 2: 23.100 Mbits/s; Fluxo 3: 22.000 Mbits/s; Fluxo 4: 29.400 Mbits/s
+0,24.0000-25.0000,4,59.7,Fluxo 1: 14.600 Mbits/s; Fluxo 2: 18.800 Mbits/s; Fluxo 3: 16.200 Mbits/s; Fluxo 4: 10.100 Mbits/s
+0,25.0000-26.0000,4,106.3,Fluxo 1: 13.600 Mbits/s; Fluxo 2: 31.300 Mbits/s; Fluxo 3: 31.000 Mbits/s; Fluxo 4: 30.400 Mbits/s
+0,26.0000-27.0000,4,84.78,Fluxo 1: 7.780 Mbits/s; Fluxo 2: 23.100 Mbits/s; Fluxo 3: 25.600 Mbits/s; Fluxo 4: 28.300 Mbits/s
+0,27.0000-28.0000,4,87.30000000000001,Fluxo 1: 12.500 Mbits/s; Fluxo 2: 28.600 Mbits/s; Fluxo 3: 23.100 Mbits/s; Fluxo 4: 23.100 Mbits/s
+0,28.0000-29.0000,4,86.87,Fluxo 1: 7.270 Mbits/s; Fluxo 2: 18.700 Mbits/s; Fluxo 3: 30.200 Mbits/s; Fluxo 4: 30.700 Mbits/s
+0,29.0000-30.0000,4,78.9,Fluxo 1: 14.100 Mbits/s; Fluxo 2: 23.100 Mbits/s; Fluxo 3: 19.700 Mbits/s; Fluxo 4: 22.000 Mbits/s
+0,30.0000-31.0000,4,99.1,Fluxo 1: 13.600 Mbits/s; Fluxo 2: 30.800 Mbits/s; Fluxo 3: 32.300 Mbits/s; Fluxo 4: 22.400 Mbits/s
+0,31.0000-32.0000,4,83.44,Fluxo 1: 8.340 Mbits/s; Fluxo 2: 19.700 Mbits/s; Fluxo 3: 21.800 Mbits/s; Fluxo 4: 33.600 Mbits/s
+0,32.0000-33.0000,4,91.39999999999999,Fluxo 1: 13.600 Mbits/s; Fluxo 2: 32.300 Mbits/s; Fluxo 3: 23.100 Mbits/s; Fluxo 4: 22.400 Mbits/s
+0,33.0000-34.0000,4,92.28,Fluxo 1: 7.780 Mbits/s; Fluxo 2: 20.800 Mbits/s; Fluxo 3: 33.500 Mbits/s; Fluxo 4: 30.200 Mbits/s
+0,34.0000-35.0000,4,93.3,Fluxo 1: 14.100 Mbits/s; Fluxo 2: 23.100 Mbits/s; Fluxo 3: 21.500 Mbits/s; Fluxo 4: 34.600 Mbits/s
+0,35.0000-36.0000,4,90.89999999999999,Fluxo 1: 14.100 Mbits/s; Fluxo 2: 32.300 Mbits/s; Fluxo 3: 22.000 Mbits/s; Fluxo 4: 22.500 Mbits/s
+0,36.0000-37.0000,4,83.82000000000001,Fluxo 1: 7.820 Mbits/s; Fluxo 2: 20.300 Mbits/s; Fluxo 3: 33.700 Mbits/s; Fluxo 4: 22.000 Mbits/s
+0,37.0000-38.0000,4,88.9,Fluxo 1: 14.600 Mbits/s; Fluxo 2: 20.800 Mbits/s; Fluxo 3: 23.100 Mbits/s; Fluxo 4: 30.400 Mbits/s
+0,38.0000-39.0000,3,64.9,Fluxo 1: 8.300 Mbits/s; Fluxo 2: 22.900 Mbits/s; Fluxo 3: 33.700 Mbits/s
+0,38.0000-39.7276,1,15.4,Fluxo 4: 15.400 Mbits/s
+0,39.0000-40.0000,3,72.2,Fluxo 1: 16.700 Mbits/s; Fluxo 2: 33.000 Mbits/s; Fluxo 3: 22.500 Mbits/s
+0,40.0000-41.0000,3,84.0,Fluxo 1: 17.200 Mbits/s; Fluxo 2: 33.200 Mbits/s; Fluxo 3: 33.600 Mbits/s
+0,41.0000-42.0000,3,56.900000000000006,Fluxo 1: 12.500 Mbits/s; Fluxo 2: 23.100 Mbits/s; Fluxo 3: 21.300 Mbits/s
+0,42.0000-43.0000,2,55.3,Fluxo 1: 22.500 Mbits/s; Fluxo 2: 32.800 Mbits/s
+0,42.0000-43.8128,1,20.0,Fluxo 3: 20.000 Mbits/s
+0,43.0000-44.0000,2,48.1,Fluxo 1: 15.000 Mbits/s; Fluxo 2: 33.100 Mbits/s
+0,44.0000-45.0000,1,28.7,Fluxo 1: 28.700 Mbits/s
+0,44.0000-44.7148,1,3.34,Fluxo 2: 3.340 Mbits/s
+0,45.0000-46.0000,1,31.3,Fluxo 1: 31.300 Mbits/s
+0,46.0000-47.0000,1,31.1,Fluxo 1: 31.100 Mbits/s
+0,47.0000-48.0000,1,32.5,Fluxo 1: 32.500 Mbits/s
+0,48.0000-49.0000,1,30.4,Fluxo 1: 30.400 Mbits/s
+0,49.0000-50.0000,1,48.7,Fluxo 1: 48.700 Mbits/s
+0,50.0000-51.0000,1,29.5,Fluxo 1: 29.500 Mbits/s
+0,51.0000-52.6163,1,30.0,Fluxo 1: 30.000 Mbits/s
+1,0.0000-1.0000,4,3.39453125,Fluxo 1: 0.849 Mbits/s; Fluxo 2: 0.849 Mbits/s; Fluxo 3: 0.849 Mbits/s; Fluxo 4: 0.849 Mbits/s
+1,1.0000-2.0000,4,14.18,Fluxo 1: 3.020 Mbits/s; Fluxo 2: 3.020 Mbits/s; Fluxo 3: 4.070 Mbits/s; Fluxo 4: 4.070 Mbits/s
+1,2.0000-3.0000,4,29.22,Fluxo 1: 7.830 Mbits/s; Fluxo 2: 7.830 Mbits/s; Fluxo 3: 6.780 Mbits/s; Fluxo 4: 6.780 Mbits/s
+1,3.0000-4.0000,4,54.2,Fluxo 1: 10.400 Mbits/s; Fluxo 2: 23.000 Mbits/s; Fluxo 3: 10.400 Mbits/s; Fluxo 4: 10.400 Mbits/s
+1,4.0000-5.0000,4,35.9,Fluxo 1: 8.860 Mbits/s; Fluxo 2: 9.320 Mbits/s; Fluxo 3: 8.860 Mbits/s; Fluxo 4: 8.860 Mbits/s
+1,5.0000-6.0000,4,40.15,Fluxo 1: 9.380 Mbits/s; Fluxo 2: 14.100 Mbits/s; Fluxo 3: 7.290 Mbits/s; Fluxo 4: 9.380 Mbits/s
+1,6.0000-7.0000,4,29.15,Fluxo 1: 5.730 Mbits/s; Fluxo 2: 10.900 Mbits/s; Fluxo 3: 7.310 Mbits/s; Fluxo 4: 5.210 Mbits/s
+1,7.0000-8.0000,4,46.5,Fluxo 1: 11.000 Mbits/s; Fluxo 2: 12.500 Mbits/s; Fluxo 3: 11.500 Mbits/s; Fluxo 4: 11.500 Mbits/s
+1,8.0000-9.0000,4,46.34,Fluxo 1: 12.000 Mbits/s; Fluxo 2: 17.700 Mbits/s; Fluxo 3: 6.750 Mbits/s; Fluxo 4: 9.890 Mbits/s
+1,9.0000-10.0000,4,42.78,Fluxo 1: 6.780 Mbits/s; Fluxo 2: 14.100 Mbits/s; Fluxo 3: 12.500 Mbits/s; Fluxo 4: 9.400 Mbits/s
+1,10.0000-11.0000,4,50.7,Fluxo 1: 12.000 Mbits/s; Fluxo 2: 15.700 Mbits/s; Fluxo 3: 11.500 Mbits/s; Fluxo 4: 11.500 Mbits/s
+1,11.0000-12.0000,4,46.3,Fluxo 1: 10.400 Mbits/s; Fluxo 2: 22.400 Mbits/s; Fluxo 3: 6.750 Mbits/s; Fluxo 4: 6.750 Mbits/s
+1,12.0000-13.0000,4,46.45,Fluxo 1: 8.350 Mbits/s; Fluxo 2: 15.100 Mbits/s; Fluxo 3: 11.500 Mbits/s; Fluxo 4: 11.500 Mbits/s
+1,13.0000-14.0000,4,73.1,Fluxo 1: 14.100 Mbits/s; Fluxo 2: 27.600 Mbits/s; Fluxo 3: 15.700 Mbits/s; Fluxo 4: 15.700 Mbits/s
+1,14.0000-15.0000,4,52.17,Fluxo 1: 13.500 Mbits/s; Fluxo 2: 21.500 Mbits/s; Fluxo 3: 8.860 Mbits/s; Fluxo 4: 8.310 Mbits/s
+1,15.0000-16.0000,4,87.8,Fluxo 1: 15.700 Mbits/s; Fluxo 2: 30.300 Mbits/s; Fluxo 3: 20.900 Mbits/s; Fluxo 4: 20.900 Mbits/s
+1,16.0000-17.0000,4,100.2,Fluxo 1: 23.000 Mbits/s; Fluxo 2: 26.000 Mbits/s; Fluxo 3: 25.600 Mbits/s; Fluxo 4: 25.600 Mbits/s
+1,17.0000-18.0000,4,83.9,Fluxo 1: 30.100 Mbits/s; Fluxo 2: 24.900 Mbits/s; Fluxo 3: 14.100 Mbits/s; Fluxo 4: 14.800 Mbits/s
+1,18.0000-19.0000,4,77.1,Fluxo 1: 15.400 Mbits/s; Fluxo 2: 25.500 Mbits/s; Fluxo 3: 18.900 Mbits/s; Fluxo 4: 17.300 Mbits/s
+1,19.0000-20.0000,4,55.0,Fluxo 1: 13.000 Mbits/s; Fluxo 2: 11.600 Mbits/s; Fluxo 3: 20.100 Mbits/s; Fluxo 4: 10.300 Mbits/s
+1,20.0000-21.0000,4,142.3,Fluxo 1: 34.600 Mbits/s; Fluxo 2: 43.700 Mbits/s; Fluxo 3: 30.400 Mbits/s; Fluxo 4: 33.600 Mbits/s
+1,21.0000-22.0000,4,74.9,Fluxo 1: 20.700 Mbits/s; Fluxo 2: 18.500 Mbits/s; Fluxo 3: 20.300 Mbits/s; Fluxo 4: 15.400 Mbits/s
+1,22.0000-23.0000,4,99.60000000000001,Fluxo 1: 33.600 Mbits/s; Fluxo 2: 33.600 Mbits/s; Fluxo 3: 10.400 Mbits/s; Fluxo 4: 22.000 Mbits/s
+1,23.0000-24.0000,4,78.3,Fluxo 1: 21.000 Mbits/s; Fluxo 2: 22.300 Mbits/s; Fluxo 3: 11.500 Mbits/s; Fluxo 4: 23.500 Mbits/s
+1,24.0000-25.0000,4,106.5,Fluxo 1: 31.500 Mbits/s; Fluxo 2: 39.700 Mbits/s; Fluxo 3: 23.400 Mbits/s; Fluxo 4: 11.900 Mbits/s
+1,25.0000-26.0000,4,86.3,Fluxo 1: 31.500 Mbits/s; Fluxo 2: 19.300 Mbits/s; Fluxo 3: 22.000 Mbits/s; Fluxo 4: 13.500 Mbits/s
+1,26.0000-27.0000,4,96.6,Fluxo 1: 31.500 Mbits/s; Fluxo 2: 29.100 Mbits/s; Fluxo 3: 12.500 Mbits/s; Fluxo 4: 23.500 Mbits/s
+1,27.0000-28.0000,4,75.6,Fluxo 1: 19.900 Mbits/s; Fluxo 2: 30.800 Mbits/s; Fluxo 3: 12.400 Mbits/s; Fluxo 4: 12.500 Mbits/s
+1,28.0000-29.0000,4,99.8,Fluxo 1: 31.500 Mbits/s; Fluxo 2: 19.800 Mbits/s; Fluxo 3: 23.500 Mbits/s; Fluxo 4: 25.000 Mbits/s
+1,29.0000-30.0000,4,96.6,Fluxo 1: 31.500 Mbits/s; Fluxo 2: 40.100 Mbits/s; Fluxo 3: 12.500 Mbits/s; Fluxo 4: 12.500 Mbits/s
+1,30.0000-31.0000,4,78.7,Fluxo 1: 31.500 Mbits/s; Fluxo 2: 20.700 Mbits/s; Fluxo 3: 13.000 Mbits/s; Fluxo 4: 13.500 Mbits/s
+1,31.0000-32.0000,4,98.9,Fluxo 1: 21.000 Mbits/s; Fluxo 2: 30.400 Mbits/s; Fluxo 3: 23.500 Mbits/s; Fluxo 4: 24.000 Mbits/s
+1,32.0000-33.0000,4,88.5,Fluxo 1: 31.500 Mbits/s; Fluxo 2: 30.400 Mbits/s; Fluxo 3: 13.000 Mbits/s; Fluxo 4: 13.600 Mbits/s
+1,33.0000-34.0000,4,79.2,Fluxo 1: 30.400 Mbits/s; Fluxo 2: 21.800 Mbits/s; Fluxo 3: 13.000 Mbits/s; Fluxo 4: 14.000 Mbits/s
+1,34.0000-35.0000,4,98.1,Fluxo 1: 19.900 Mbits/s; Fluxo 2: 30.500 Mbits/s; Fluxo 3: 23.100 Mbits/s; Fluxo 4: 24.600 Mbits/s
+1,35.0000-36.0000,4,88.3,Fluxo 1: 30.400 Mbits/s; Fluxo 2: 29.900 Mbits/s; Fluxo 3: 15.000 Mbits/s; Fluxo 4: 13.000 Mbits/s
+1,36.0000-37.0000,4,92.4,Fluxo 1: 31.500 Mbits/s; Fluxo 2: 20.800 Mbits/s; Fluxo 3: 25.600 Mbits/s; Fluxo 4: 14.500 Mbits/s
+1,37.0000-38.0000,3,56.4,Fluxo 1: 30.400 Mbits/s; Fluxo 3: 13.000 Mbits/s; Fluxo 4: 13.000 Mbits/s
+1,37.0000-38.6779,1,14.1,Fluxo 2: 14.100 Mbits/s
+1,38.0000-39.0000,3,70.7,Fluxo 1: 31.500 Mbits/s; Fluxo 3: 18.200 Mbits/s; Fluxo 4: 21.000 Mbits/s
+1,39.0000-40.0000,3,66.1,Fluxo 1: 30.400 Mbits/s; Fluxo 3: 24.300 Mbits/s; Fluxo 4: 11.400 Mbits/s
+1,40.0000-41.5485,1,20.7,Fluxo 1: 20.700 Mbits/s
+1,40.0000-41.0000,2,56.0,Fluxo 3: 41.900 Mbits/s; Fluxo 4: 14.100 Mbits/s
+1,41.0000-42.0000,2,30.83,Fluxo 3: 22.000 Mbits/s; Fluxo 4: 8.830 Mbits/s
+1,42.0000-43.0000,2,59.7,Fluxo 3: 41.900 Mbits/s; Fluxo 4: 17.800 Mbits/s
+1,43.0000-44.0000,2,42.9,Fluxo 3: 31.500 Mbits/s; Fluxo 4: 11.400 Mbits/s
+1,44.0000-45.0000,2,46.1,Fluxo 3: 31.500 Mbits/s; Fluxo 4: 14.600 Mbits/s
+1,45.0000-46.0000,2,59.599999999999994,Fluxo 3: 41.900 Mbits/s; Fluxo 4: 17.700 Mbits/s
+1,46.0000-47.4554,1,25.6,Fluxo 3: 25.600 Mbits/s
+1,46.0000-47.0000,1,8.33,Fluxo 4: 8.330 Mbits/s
+1,47.0000-48.0000,1,18.3,Fluxo 4: 18.300 Mbits/s
+1,48.0000-49.0000,1,8.82,Fluxo 4: 8.820 Mbits/s
+1,49.0000-50.0000,1,17.8,Fluxo 4: 17.800 Mbits/s
+1,50.0000-51.0000,1,18.2,Fluxo 4: 18.200 Mbits/s
+1,51.0000-52.0000,1,9.86,Fluxo 4: 9.860 Mbits/s
+1,52.0000-53.0000,1,19.3,Fluxo 4: 19.300 Mbits/s
+1,53.0000-54.0000,1,21.4,Fluxo 4: 21.400 Mbits/s
+1,54.0000-55.0000,1,13.5,Fluxo 4: 13.500 Mbits/s
+1,55.0000-56.0000,1,24.5,Fluxo 4: 24.500 Mbits/s
+1,56.0000-57.7513,1,11.1,Fluxo 4: 11.100 Mbits/s
+2,0.0000-1.0000,4,3.39453125,Fluxo 1: 0.849 Mbits/s; Fluxo 2: 0.849 Mbits/s; Fluxo 3: 0.849 Mbits/s; Fluxo 4: 0.849 Mbits/s
+2,1.0000-2.0000,4,12.04,Fluxo 1: 3.020 Mbits/s; Fluxo 2: 2.980 Mbits/s; Fluxo 3: 3.020 Mbits/s; Fluxo 4: 3.020 Mbits/s
+2,2.0000-3.0000,4,31.32,Fluxo 1: 7.830 Mbits/s; Fluxo 2: 7.830 Mbits/s; Fluxo 3: 7.830 Mbits/s; Fluxo 4: 7.830 Mbits/s
+2,3.0000-4.0000,4,54.2,Fluxo 1: 10.400 Mbits/s; Fluxo 2: 10.400 Mbits/s; Fluxo 3: 10.400 Mbits/s; Fluxo 4: 23.000 Mbits/s
+2,4.0000-5.0000,4,46.879999999999995,Fluxo 1: 8.860 Mbits/s; Fluxo 2: 8.860 Mbits/s; Fluxo 3: 8.860 Mbits/s; Fluxo 4: 20.300 Mbits/s
+2,5.0000-6.0000,4,29.57,Fluxo 1: 5.190 Mbits/s; Fluxo 2: 5.190 Mbits/s; Fluxo 3: 5.190 Mbits/s; Fluxo 4: 14.000 Mbits/s
+2,6.0000-7.0000,4,57.43,Fluxo 1: 9.410 Mbits/s; Fluxo 2: 9.410 Mbits/s; Fluxo 3: 9.410 Mbits/s; Fluxo 4: 29.200 Mbits/s
+2,7.0000-8.0000,4,61.6,Fluxo 1: 11.500 Mbits/s; Fluxo 2: 11.500 Mbits/s; Fluxo 3: 11.500 Mbits/s; Fluxo 4: 27.100 Mbits/s
+2,8.0000-9.0000,4,35.86,Fluxo 1: 5.720 Mbits/s; Fluxo 2: 6.230 Mbits/s; Fluxo 3: 5.710 Mbits/s; Fluxo 4: 18.200 Mbits/s
+2,9.0000-10.0000,4,80.7,Fluxo 1: 13.600 Mbits/s; Fluxo 2: 13.100 Mbits/s; Fluxo 3: 13.600 Mbits/s; Fluxo 4: 40.400 Mbits/s
+2,10.0000-11.0000,4,65.9,Fluxo 1: 11.500 Mbits/s; Fluxo 2: 10.900 Mbits/s; Fluxo 3: 11.500 Mbits/s; Fluxo 4: 32.000 Mbits/s
+2,11.0000-12.0000,4,50.25,Fluxo 1: 6.260 Mbits/s; Fluxo 2: 6.770 Mbits/s; Fluxo 3: 5.720 Mbits/s; Fluxo 4: 31.500 Mbits/s
+2,12.0000-13.0000,4,68.6,Fluxo 1: 12.000 Mbits/s; Fluxo 2: 12.000 Mbits/s; Fluxo 3: 13.100 Mbits/s; Fluxo 4: 31.500 Mbits/s
+2,13.0000-14.0000,4,61.65,Fluxo 1: 9.890 Mbits/s; Fluxo 2: 12.000 Mbits/s; Fluxo 3: 9.360 Mbits/s; Fluxo 4: 30.400 Mbits/s
+2,14.0000-15.0000,4,74.4,Fluxo 1: 15.200 Mbits/s; Fluxo 2: 12.500 Mbits/s; Fluxo 3: 15.200 Mbits/s; Fluxo 4: 31.500 Mbits/s
+2,15.0000-16.0000,4,95.6,Fluxo 1: 16.700 Mbits/s; Fluxo 2: 20.300 Mbits/s; Fluxo 3: 16.700 Mbits/s; Fluxo 4: 41.900 Mbits/s
+2,16.0000-17.0000,4,79.9,Fluxo 1: 17.200 Mbits/s; Fluxo 2: 24.500 Mbits/s; Fluxo 3: 17.200 Mbits/s; Fluxo 4: 21.000 Mbits/s
+2,17.0000-18.0000,4,95.1,Fluxo 1: 27.700 Mbits/s; Fluxo 2: 15.600 Mbits/s; Fluxo 3: 19.300 Mbits/s; Fluxo 4: 32.500 Mbits/s
+2,18.0000-19.0000,4,75.2,Fluxo 1: 10.700 Mbits/s; Fluxo 2: 20.400 Mbits/s; Fluxo 3: 18.600 Mbits/s; Fluxo 4: 25.500 Mbits/s
+2,19.0000-20.0000,4,54.28,Fluxo 1: 6.630 Mbits/s; Fluxo 2: 12.700 Mbits/s; Fluxo 3: 8.950 Mbits/s; Fluxo 4: 26.000 Mbits/s
+2,20.0000-21.0000,4,135.7,Fluxo 1: 29.200 Mbits/s; Fluxo 2: 40.900 Mbits/s; Fluxo 3: 30.700 Mbits/s; Fluxo 4: 34.900 Mbits/s
+2,21.0000-22.0000,4,90.1,Fluxo 1: 20.400 Mbits/s; Fluxo 2: 20.500 Mbits/s; Fluxo 3: 19.800 Mbits/s; Fluxo 4: 29.400 Mbits/s
+2,22.0000-23.0000,4,80.6,Fluxo 1: 10.400 Mbits/s; Fluxo 2: 29.400 Mbits/s; Fluxo 3: 10.400 Mbits/s; Fluxo 4: 30.400 Mbits/s
+2,23.0000-24.0000,4,99.3,Fluxo 1: 21.900 Mbits/s; Fluxo 2: 27.100 Mbits/s; Fluxo 3: 18.800 Mbits/s; Fluxo 4: 31.500 Mbits/s
+2,24.0000-25.0000,4,80.5,Fluxo 1: 11.400 Mbits/s; Fluxo 2: 31.400 Mbits/s; Fluxo 3: 14.600 Mbits/s; Fluxo 4: 23.100 Mbits/s
+2,25.0000-26.0000,4,110.2,Fluxo 1: 20.900 Mbits/s; Fluxo 2: 28.700 Mbits/s; Fluxo 3: 22.900 Mbits/s; Fluxo 4: 37.700 Mbits/s
+2,26.0000-27.0000,4,86.5,Fluxo 1: 14.500 Mbits/s; Fluxo 2: 20.200 Mbits/s; Fluxo 3: 12.000 Mbits/s; Fluxo 4: 39.800 Mbits/s
+2,27.0000-28.0000,4,80.4,Fluxo 1: 11.500 Mbits/s; Fluxo 2: 28.100 Mbits/s; Fluxo 3: 12.500 Mbits/s; Fluxo 4: 28.300 Mbits/s
+2,28.0000-29.0000,4,95.9,Fluxo 1: 22.000 Mbits/s; Fluxo 2: 17.900 Mbits/s; Fluxo 3: 12.000 Mbits/s; Fluxo 4: 44.000 Mbits/s
+2,29.0000-30.0000,4,89.56,Fluxo 1: 9.360 Mbits/s; Fluxo 2: 27.800 Mbits/s; Fluxo 3: 23.000 Mbits/s; Fluxo 4: 29.400 Mbits/s
+2,30.0000-31.0000,3,50.16,Fluxo 1: 9.860 Mbits/s; Fluxo 2: 29.400 Mbits/s; Fluxo 3: 10.900 Mbits/s
+2,30.0000-31.1263,1,19.9,Fluxo 4: 19.900 Mbits/s
+2,31.0000-32.0000,3,75.9,Fluxo 1: 19.300 Mbits/s; Fluxo 2: 32.500 Mbits/s; Fluxo 3: 24.100 Mbits/s
+2,32.0000-33.0000,3,55.9,Fluxo 1: 10.400 Mbits/s; Fluxo 2: 32.500 Mbits/s; Fluxo 3: 13.000 Mbits/s
+2,33.0000-34.0000,3,77.1,Fluxo 1: 22.500 Mbits/s; Fluxo 2: 31.500 Mbits/s; Fluxo 3: 23.100 Mbits/s
+2,34.0000-35.0000,3,69.3,Fluxo 1: 11.900 Mbits/s; Fluxo 2: 31.500 Mbits/s; Fluxo 3: 25.900 Mbits/s
+2,35.0000-36.0000,3,78.9,Fluxo 1: 22.900 Mbits/s; Fluxo 2: 43.000 Mbits/s; Fluxo 3: 13.000 Mbits/s
+2,36.0000-37.0000,3,81.6,Fluxo 1: 22.500 Mbits/s; Fluxo 2: 31.500 Mbits/s; Fluxo 3: 27.600 Mbits/s
+2,37.0000-38.0000,3,59.1,Fluxo 1: 12.500 Mbits/s; Fluxo 2: 31.500 Mbits/s; Fluxo 3: 15.100 Mbits/s
+2,38.0000-39.0000,3,73.2,Fluxo 1: 11.900 Mbits/s; Fluxo 2: 30.400 Mbits/s; Fluxo 3: 30.900 Mbits/s
+2,39.0000-40.0000,3,79.8,Fluxo 1: 23.500 Mbits/s; Fluxo 2: 31.500 Mbits/s; Fluxo 3: 24.800 Mbits/s
+2,40.0000-41.0000,2,53.8,Fluxo 1: 23.100 Mbits/s; Fluxo 3: 30.700 Mbits/s
+2,40.0000-40.9717,1,18.3,Fluxo 2: 18.300 Mbits/s
+2,41.0000-42.0000,2,65.4,Fluxo 1: 23.400 Mbits/s; Fluxo 3: 42.000 Mbits/s
+2,42.0000-43.0000,2,44.5,Fluxo 1: 23.500 Mbits/s; Fluxo 3: 21.000 Mbits/s
+2,43.0000-44.0000,2,54.4,Fluxo 1: 13.500 Mbits/s; Fluxo 3: 40.900 Mbits/s
+2,44.0000-45.0000,2,53.0,Fluxo 1: 15.100 Mbits/s; Fluxo 3: 37.900 Mbits/s
+2,45.0000-46.0000,2,83.0,Fluxo 1: 35.000 Mbits/s; Fluxo 3: 48.000 Mbits/s
+2,46.0000-47.0000,1,13.6,Fluxo 1: 13.600 Mbits/s
+2,46.0000-47.2104,1,17.7,Fluxo 3: 17.700 Mbits/s
+2,47.0000-48.0000,1,33.4,Fluxo 1: 33.400 Mbits/s
+2,48.0000-49.0000,1,16.4,Fluxo 1: 16.400 Mbits/s
+2,49.0000-50.0000,1,33.1,Fluxo 1: 33.100 Mbits/s
+2,50.0000-51.0000,1,31.4,Fluxo 1: 31.400 Mbits/s
+2,51.0000-52.3260,1,21.6,Fluxo 1: 21.600 Mbits/s
+3,0.0000-1.0000,4,3.39453125,Fluxo 1: 0.849 Mbits/s; Fluxo 2: 0.849 Mbits/s; Fluxo 3: 0.849 Mbits/s; Fluxo 4: 0.849 Mbits/s
+3,1.0000-2.0000,4,12.07,Fluxo 1: 3.010 Mbits/s; Fluxo 2: 3.020 Mbits/s; Fluxo 3: 3.020 Mbits/s; Fluxo 4: 3.020 Mbits/s
+3,2.0000-3.0000,4,31.32,Fluxo 1: 7.830 Mbits/s; Fluxo 2: 7.830 Mbits/s; Fluxo 3: 7.830 Mbits/s; Fluxo 4: 7.830 Mbits/s
+3,3.0000-4.0000,4,54.2,Fluxo 1: 10.400 Mbits/s; Fluxo 2: 23.000 Mbits/s; Fluxo 3: 10.400 Mbits/s; Fluxo 4: 10.400 Mbits/s
+3,4.0000-5.0000,4,35.9,Fluxo 1: 8.860 Mbits/s; Fluxo 2: 9.320 Mbits/s; Fluxo 3: 8.860 Mbits/s; Fluxo 4: 8.860 Mbits/s
+3,5.0000-6.0000,4,40.15,Fluxo 1: 9.380 Mbits/s; Fluxo 2: 14.100 Mbits/s; Fluxo 3: 9.380 Mbits/s; Fluxo 4: 7.290 Mbits/s
+3,6.0000-7.0000,4,29.75,Fluxo 1: 5.730 Mbits/s; Fluxo 2: 11.500 Mbits/s; Fluxo 3: 5.210 Mbits/s; Fluxo 4: 7.310 Mbits/s
+3,7.0000-8.0000,4,46.0,Fluxo 1: 11.000 Mbits/s; Fluxo 2: 12.000 Mbits/s; Fluxo 3: 11.500 Mbits/s; Fluxo 4: 11.500 Mbits/s
+3,8.0000-9.0000,4,45.29,Fluxo 1: 12.000 Mbits/s; Fluxo 2: 17.700 Mbits/s; Fluxo 3: 8.840 Mbits/s; Fluxo 4: 6.750 Mbits/s
+3,9.0000-10.0000,4,44.28,Fluxo 1: 6.780 Mbits/s; Fluxo 2: 14.600 Mbits/s; Fluxo 3: 10.400 Mbits/s; Fluxo 4: 12.500 Mbits/s
+3,10.0000-11.0000,4,50.1,Fluxo 1: 12.000 Mbits/s; Fluxo 2: 15.100 Mbits/s; Fluxo 3: 11.500 Mbits/s; Fluxo 4: 11.500 Mbits/s
+3,11.0000-12.0000,4,47.42,Fluxo 1: 10.400 Mbits/s; Fluxo 2: 23.000 Mbits/s; Fluxo 3: 7.270 Mbits/s; Fluxo 4: 6.750 Mbits/s
+3,12.0000-13.0000,4,54.85,Fluxo 1: 8.350 Mbits/s; Fluxo 2: 24.000 Mbits/s; Fluxo 3: 11.000 Mbits/s; Fluxo 4: 11.500 Mbits/s
+3,13.0000-14.0000,4,71.0,Fluxo 1: 14.100 Mbits/s; Fluxo 2: 25.500 Mbits/s; Fluxo 3: 15.700 Mbits/s; Fluxo 4: 15.700 Mbits/s
+3,14.0000-15.0000,4,47.42,Fluxo 1: 12.500 Mbits/s; Fluxo 2: 16.700 Mbits/s; Fluxo 3: 9.360 Mbits/s; Fluxo 4: 8.860 Mbits/s
+3,15.0000-16.0000,4,97.19999999999999,Fluxo 1: 28.200 Mbits/s; Fluxo 2: 28.200 Mbits/s; Fluxo 3: 19.900 Mbits/s; Fluxo 4: 20.900 Mbits/s
+3,16.0000-17.0000,4,80.0,Fluxo 1: 16.100 Mbits/s; Fluxo 2: 22.800 Mbits/s; Fluxo 3: 16.100 Mbits/s; Fluxo 4: 25.000 Mbits/s
+3,17.0000-18.0000,4,94.3,Fluxo 1: 25.500 Mbits/s; Fluxo 2: 27.500 Mbits/s; Fluxo 3: 26.700 Mbits/s; Fluxo 4: 14.600 Mbits/s
+3,18.0000-19.0000,4,68.2,Fluxo 1: 16.500 Mbits/s; Fluxo 2: 17.000 Mbits/s; Fluxo 3: 16.400 Mbits/s; Fluxo 4: 18.300 Mbits/s
+3,19.0000-20.0000,4,49.58,Fluxo 1: 14.100 Mbits/s; Fluxo 2: 16.100 Mbits/s; Fluxo 3: 11.600 Mbits/s; Fluxo 4: 7.780 Mbits/s
+3,20.0000-21.0000,4,132.0,Fluxo 1: 33.700 Mbits/s; Fluxo 2: 28.500 Mbits/s; Fluxo 3: 35.200 Mbits/s; Fluxo 4: 34.600 Mbits/s
+3,21.0000-22.0000,4,63.34,Fluxo 1: 22.000 Mbits/s; Fluxo 2: 11.800 Mbits/s; Fluxo 3: 19.900 Mbits/s; Fluxo 4: 9.640 Mbits/s
+3,22.0000-23.0000,4,92.9,Fluxo 1: 22.000 Mbits/s; Fluxo 2: 18.900 Mbits/s; Fluxo 3: 31.700 Mbits/s; Fluxo 4: 20.300 Mbits/s
+3,23.0000-24.0000,4,98.3,Fluxo 1: 32.500 Mbits/s; Fluxo 2: 32.300 Mbits/s; Fluxo 3: 22.000 Mbits/s; Fluxo 4: 11.500 Mbits/s
+3,24.0000-25.0000,4,97.6,Fluxo 1: 31.500 Mbits/s; Fluxo 2: 12.000 Mbits/s; Fluxo 3: 31.100 Mbits/s; Fluxo 4: 23.000 Mbits/s
+3,25.0000-26.0000,4,88.7,Fluxo 1: 31.500 Mbits/s; Fluxo 2: 15.100 Mbits/s; Fluxo 3: 29.600 Mbits/s; Fluxo 4: 12.500 Mbits/s
+3,26.0000-27.0000,4,85.9,Fluxo 1: 30.400 Mbits/s; Fluxo 2: 25.100 Mbits/s; Fluxo 3: 18.500 Mbits/s; Fluxo 4: 11.900 Mbits/s
+3,27.0000-28.0000,4,85.1,Fluxo 1: 21.000 Mbits/s; Fluxo 2: 13.600 Mbits/s; Fluxo 3: 27.000 Mbits/s; Fluxo 4: 23.500 Mbits/s
+3,28.0000-29.0000,4,90.7,Fluxo 1: 31.500 Mbits/s; Fluxo 2: 17.100 Mbits/s; Fluxo 3: 30.100 Mbits/s; Fluxo 4: 12.000 Mbits/s
+3,29.0000-30.0000,4,96.1,Fluxo 1: 30.400 Mbits/s; Fluxo 2: 26.100 Mbits/s; Fluxo 3: 27.200 Mbits/s; Fluxo 4: 12.400 Mbits/s
+3,30.0000-31.0000,4,88.4,Fluxo 1: 22.000 Mbits/s; Fluxo 2: 14.100 Mbits/s; Fluxo 3: 28.800 Mbits/s; Fluxo 4: 23.500 Mbits/s
+3,31.0000-32.0000,4,89.6,Fluxo 1: 30.400 Mbits/s; Fluxo 2: 28.700 Mbits/s; Fluxo 3: 18.500 Mbits/s; Fluxo 4: 12.000 Mbits/s
+3,32.0000-33.0000,4,86.5,Fluxo 1: 31.500 Mbits/s; Fluxo 2: 14.600 Mbits/s; Fluxo 3: 27.400 Mbits/s; Fluxo 4: 13.000 Mbits/s
+3,33.0000-34.0000,4,101.3,Fluxo 1: 32.500 Mbits/s; Fluxo 2: 17.100 Mbits/s; Fluxo 3: 28.200 Mbits/s; Fluxo 4: 23.500 Mbits/s
+3,34.0000-35.0000,4,88.9,Fluxo 1: 31.500 Mbits/s; Fluxo 2: 26.100 Mbits/s; Fluxo 3: 19.300 Mbits/s; Fluxo 4: 12.000 Mbits/s
+3,35.0000-36.0000,4,76.4,Fluxo 1: 21.000 Mbits/s; Fluxo 2: 14.600 Mbits/s; Fluxo 3: 26.800 Mbits/s; Fluxo 4: 14.000 Mbits/s
+3,36.0000-37.0000,4,107.6,Fluxo 1: 31.500 Mbits/s; Fluxo 2: 18.700 Mbits/s; Fluxo 3: 32.300 Mbits/s; Fluxo 4: 25.100 Mbits/s
+3,37.0000-38.0000,4,85.0,Fluxo 1: 31.500 Mbits/s; Fluxo 2: 26.700 Mbits/s; Fluxo 3: 13.800 Mbits/s; Fluxo 4: 13.000 Mbits/s
+3,38.0000-39.0000,4,81.8,Fluxo 1: 21.000 Mbits/s; Fluxo 2: 15.100 Mbits/s; Fluxo 3: 26.500 Mbits/s; Fluxo 4: 19.200 Mbits/s
+3,39.0000-40.0000,4,103.5,Fluxo 1: 31.500 Mbits/s; Fluxo 2: 21.400 Mbits/s; Fluxo 3: 29.200 Mbits/s; Fluxo 4: 21.400 Mbits/s
+3,40.0000-41.0000,4,68.8,Fluxo 1: 30.400 Mbits/s; Fluxo 2: 17.400 Mbits/s; Fluxo 3: 10.100 Mbits/s; Fluxo 4: 10.900 Mbits/s
+3,41.0000-41.9655,1,4.47,Fluxo 1: 4.470 Mbits/s
+3,41.0000-42.0000,3,66.71,Fluxo 2: 31.400 Mbits/s; Fluxo 3: 33.800 Mbits/s; Fluxo 4: 1.510 Mbits/s
+3,42.0000-43.0000,3,72.2,Fluxo 2: 27.400 Mbits/s; Fluxo 3: 14.000 Mbits/s; Fluxo 4: 30.800 Mbits/s
+3,43.0000-44.0000,3,44.7,Fluxo 2: 17.100 Mbits/s; Fluxo 3: 19.300 Mbits/s; Fluxo 4: 8.300 Mbits/s
+3,44.0000-45.3401,1,13.6,Fluxo 2: 13.600 Mbits/s
+3,44.0000-45.0000,2,21.4,Fluxo 3: 9.900 Mbits/s; Fluxo 4: 11.500 Mbits/s
+3,45.0000-46.8039,1,3.71,Fluxo 3: 3.710 Mbits/s
+3,45.0000-46.0000,1,14.6,Fluxo 4: 14.600 Mbits/s
+3,46.0000-47.0000,1,11.5,Fluxo 4: 11.500 Mbits/s
+3,47.0000-48.0000,1,12.0,Fluxo 4: 12.000 Mbits/s
+3,48.0000-49.0000,1,15.6,Fluxo 4: 15.600 Mbits/s
+3,49.0000-50.0000,1,12.5,Fluxo 4: 12.500 Mbits/s
+3,50.0000-51.0000,1,11.0,Fluxo 4: 11.000 Mbits/s
+3,51.0000-52.0000,1,14.6,Fluxo 4: 14.600 Mbits/s
+3,52.0000-53.0000,1,14.6,Fluxo 4: 14.600 Mbits/s
+3,53.0000-54.0000,1,9.91,Fluxo 4: 9.910 Mbits/s
+3,54.0000-55.0000,1,16.2,Fluxo 4: 16.200 Mbits/s
+3,55.0000-56.0000,1,16.7,Fluxo 4: 16.700 Mbits/s
+3,56.0000-57.0000,1,10.4,Fluxo 4: 10.400 Mbits/s
+3,57.0000-58.0000,1,18.3,Fluxo 4: 18.300 Mbits/s
+3,58.0000-59.0000,1,22.0,Fluxo 4: 22.000 Mbits/s
+3,59.0000-60.8354,1,5.86,Fluxo 4: 5.860 Mbits/s
+4,0.0000-1.0000,4,3.39453125,Fluxo 1: 0.849 Mbits/s; Fluxo 2: 0.849 Mbits/s; Fluxo 3: 0.849 Mbits/s; Fluxo 4: 0.849 Mbits/s
+4,1.0000-2.0000,4,12.08,Fluxo 1: 3.020 Mbits/s; Fluxo 2: 3.020 Mbits/s; Fluxo 3: 3.020 Mbits/s; Fluxo 4: 3.020 Mbits/s
+4,2.0000-3.0000,4,31.32,Fluxo 1: 7.830 Mbits/s; Fluxo 2: 7.830 Mbits/s; Fluxo 3: 7.830 Mbits/s; Fluxo 4: 7.830 Mbits/s
+4,3.0000-4.0000,4,54.2,Fluxo 1: 10.400 Mbits/s; Fluxo 2: 10.400 Mbits/s; Fluxo 3: 23.000 Mbits/s; Fluxo 4: 10.400 Mbits/s
+4,4.0000-5.0000,4,46.879999999999995,Fluxo 1: 8.860 Mbits/s; Fluxo 2: 8.860 Mbits/s; Fluxo 3: 20.300 Mbits/s; Fluxo 4: 8.860 Mbits/s
+4,5.0000-6.0000,4,30.17,Fluxo 1: 5.190 Mbits/s; Fluxo 2: 5.190 Mbits/s; Fluxo 3: 14.600 Mbits/s; Fluxo 4: 5.190 Mbits/s
+4,6.0000-7.0000,4,55.93,Fluxo 1: 9.410 Mbits/s; Fluxo 2: 9.410 Mbits/s; Fluxo 3: 27.700 Mbits/s; Fluxo 4: 9.410 Mbits/s
+4,7.0000-8.0000,4,62.2,Fluxo 1: 11.500 Mbits/s; Fluxo 2: 11.500 Mbits/s; Fluxo 3: 27.700 Mbits/s; Fluxo 4: 11.500 Mbits/s
+4,8.0000-9.0000,4,37.39,Fluxo 1: 5.700 Mbits/s; Fluxo 2: 6.760 Mbits/s; Fluxo 3: 18.700 Mbits/s; Fluxo 4: 6.230 Mbits/s
+4,9.0000-10.0000,4,80.2,Fluxo 1: 13.600 Mbits/s; Fluxo 2: 12.500 Mbits/s; Fluxo 3: 41.000 Mbits/s; Fluxo 4: 13.100 Mbits/s
+4,10.0000-11.0000,4,63.5,Fluxo 1: 10.400 Mbits/s; Fluxo 2: 11.500 Mbits/s; Fluxo 3: 31.200 Mbits/s; Fluxo 4: 10.400 Mbits/s
+4,11.0000-12.0000,4,42.31,Fluxo 1: 7.290 Mbits/s; Fluxo 2: 6.260 Mbits/s; Fluxo 3: 22.000 Mbits/s; Fluxo 4: 6.760 Mbits/s
+4,12.0000-13.0000,4,77.9,Fluxo 1: 12.000 Mbits/s; Fluxo 2: 12.500 Mbits/s; Fluxo 3: 40.900 Mbits/s; Fluxo 4: 12.500 Mbits/s
+4,13.0000-14.0000,4,61.7,Fluxo 1: 12.000 Mbits/s; Fluxo 2: 8.310 Mbits/s; Fluxo 3: 31.500 Mbits/s; Fluxo 4: 9.890 Mbits/s
+4,14.0000-15.0000,4,73.7,Fluxo 1: 12.500 Mbits/s; Fluxo 2: 16.200 Mbits/s; Fluxo 3: 30.400 Mbits/s; Fluxo 4: 14.600 Mbits/s
+4,15.0000-16.0000,4,94.5,Fluxo 1: 19.300 Mbits/s; Fluxo 2: 14.000 Mbits/s; Fluxo 3: 41.900 Mbits/s; Fluxo 4: 19.300 Mbits/s
+4,16.0000-17.0000,4,83.7,Fluxo 1: 25.600 Mbits/s; Fluxo 2: 21.900 Mbits/s; Fluxo 3: 21.600 Mbits/s; Fluxo 4: 14.600 Mbits/s
+4,17.0000-18.0000,4,103.6,Fluxo 1: 17.700 Mbits/s; Fluxo 2: 24.600 Mbits/s; Fluxo 3: 32.600 Mbits/s; Fluxo 4: 28.700 Mbits/s
+4,18.0000-19.0000,4,64.46,Fluxo 1: 16.400 Mbits/s; Fluxo 2: 8.160 Mbits/s; Fluxo 3: 25.700 Mbits/s; Fluxo 4: 14.200 Mbits/s
+4,19.0000-20.0000,4,94.6,Fluxo 1: 14.800 Mbits/s; Fluxo 2: 19.700 Mbits/s; Fluxo 3: 28.400 Mbits/s; Fluxo 4: 31.700 Mbits/s
+4,20.0000-21.0000,4,88.3,Fluxo 1: 30.100 Mbits/s; Fluxo 2: 20.500 Mbits/s; Fluxo 3: 21.900 Mbits/s; Fluxo 4: 15.800 Mbits/s
+4,21.0000-22.0000,4,85.5,Fluxo 1: 28.700 Mbits/s; Fluxo 2: 20.900 Mbits/s; Fluxo 3: 19.300 Mbits/s; Fluxo 4: 16.600 Mbits/s
+4,22.0000-23.0000,4,85.0,Fluxo 1: 17.100 Mbits/s; Fluxo 2: 11.400 Mbits/s; Fluxo 3: 40.900 Mbits/s; Fluxo 4: 15.600 Mbits/s
+4,23.0000-24.0000,4,95.8,Fluxo 1: 36.800 Mbits/s; Fluxo 2: 20.400 Mbits/s; Fluxo 3: 20.400 Mbits/s; Fluxo 4: 18.200 Mbits/s
+4,24.0000-25.0000,4,89.30000000000001,Fluxo 1: 22.100 Mbits/s; Fluxo 2: 13.000 Mbits/s; Fluxo 3: 38.100 Mbits/s; Fluxo 4: 16.100 Mbits/s
+4,25.0000-26.0000,4,87.7,Fluxo 1: 29.600 Mbits/s; Fluxo 2: 18.300 Mbits/s; Fluxo 3: 21.000 Mbits/s; Fluxo 4: 18.800 Mbits/s
+4,26.0000-27.0000,4,91.4,Fluxo 1: 19.600 Mbits/s; Fluxo 2: 14.000 Mbits/s; Fluxo 3: 41.100 Mbits/s; Fluxo 4: 16.700 Mbits/s
+4,27.0000-28.0000,4,94.9,Fluxo 1: 37.600 Mbits/s; Fluxo 2: 20.400 Mbits/s; Fluxo 3: 19.200 Mbits/s; Fluxo 4: 17.700 Mbits/s
+4,28.0000-29.0000,4,82.1,Fluxo 1: 19.900 Mbits/s; Fluxo 2: 14.100 Mbits/s; Fluxo 3: 30.300 Mbits/s; Fluxo 4: 17.800 Mbits/s
+4,29.0000-30.0000,4,87.8,Fluxo 1: 28.500 Mbits/s; Fluxo 2: 16.700 Mbits/s; Fluxo 3: 30.200 Mbits/s; Fluxo 4: 12.400 Mbits/s
+4,30.0000-31.0000,4,94.5,Fluxo 1: 30.300 Mbits/s; Fluxo 2: 16.200 Mbits/s; Fluxo 3: 29.700 Mbits/s; Fluxo 4: 18.300 Mbits/s
+4,31.0000-32.0000,4,95.6,Fluxo 1: 28.000 Mbits/s; Fluxo 2: 18.200 Mbits/s; Fluxo 3: 31.600 Mbits/s; Fluxo 4: 17.800 Mbits/s
+4,32.0000-33.0000,3,59.2,Fluxo 1: 31.100 Mbits/s; Fluxo 2: 15.100 Mbits/s; Fluxo 4: 13.000 Mbits/s
+4,32.0000-33.0695,1,4.17,Fluxo 3: 4.170 Mbits/s
+4,33.0000-34.0000,3,73.2,Fluxo 1: 32.500 Mbits/s; Fluxo 2: 17.700 Mbits/s; Fluxo 4: 23.000 Mbits/s
+4,34.0000-35.0000,3,72.1,Fluxo 1: 32.500 Mbits/s; Fluxo 2: 19.800 Mbits/s; Fluxo 4: 19.800 Mbits/s
+4,35.0000-36.0000,3,70.5,Fluxo 1: 33.600 Mbits/s; Fluxo 2: 18.700 Mbits/s; Fluxo 4: 18.200 Mbits/s
+4,36.0000-37.0000,3,78.4,Fluxo 1: 32.500 Mbits/s; Fluxo 2: 25.000 Mbits/s; Fluxo 4: 20.900 Mbits/s
+4,37.0000-38.0000,3,95.6,Fluxo 1: 43.000 Mbits/s; Fluxo 2: 20.900 Mbits/s; Fluxo 4: 31.700 Mbits/s
+4,38.0000-39.0000,3,72.3,Fluxo 1: 21.000 Mbits/s; Fluxo 2: 28.200 Mbits/s; Fluxo 4: 23.100 Mbits/s
+4,39.0000-40.0000,3,81.7,Fluxo 1: 41.900 Mbits/s; Fluxo 2: 18.700 Mbits/s; Fluxo 4: 21.100 Mbits/s
+4,40.0000-41.2337,1,14.8,Fluxo 1: 14.800 Mbits/s
+4,40.0000-41.0000,2,63.5,Fluxo 2: 29.900 Mbits/s; Fluxo 4: 33.600 Mbits/s
+4,41.0000-42.0000,2,64.0,Fluxo 2: 32.500 Mbits/s; Fluxo 4: 31.500 Mbits/s
+4,42.0000-43.0000,2,72.3,Fluxo 2: 30.400 Mbits/s; Fluxo 4: 41.900 Mbits/s
+4,43.0000-44.0000,2,61.9,Fluxo 2: 31.500 Mbits/s; Fluxo 4: 30.400 Mbits/s
+4,44.0000-45.0000,2,67.2,Fluxo 2: 31.500 Mbits/s; Fluxo 4: 35.700 Mbits/s
+4,45.0000-46.0000,2,83.9,Fluxo 2: 38.800 Mbits/s; Fluxo 4: 45.100 Mbits/s
+4,46.0000-47.0000,1,54.5,Fluxo 2: 54.500 Mbits/s
+4,46.0000-46.9652,1,9.37,Fluxo 4: 9.370 Mbits/s
+4,47.0000-47.9645,1,2.23,Fluxo 2: 2.230 Mbits/s
+5,0.0000-1.0000,4,3.39453125,Fluxo 1: 0.849 Mbits/s; Fluxo 2: 0.849 Mbits/s; Fluxo 3: 0.849 Mbits/s; Fluxo 4: 0.849 Mbits/s
+5,1.0000-2.0000,4,13.120000000000001,Fluxo 1: 4.070 Mbits/s; Fluxo 2: 3.020 Mbits/s; Fluxo 3: 3.020 Mbits/s; Fluxo 4: 3.010 Mbits/s
+5,2.0000-3.0000,4,30.27,Fluxo 1: 6.780 Mbits/s; Fluxo 2: 7.830 Mbits/s; Fluxo 3: 7.830 Mbits/s; Fluxo 4: 7.830 Mbits/s
+5,3.0000-4.0000,4,41.6,Fluxo 1: 10.400 Mbits/s; Fluxo 2: 10.400 Mbits/s; Fluxo 3: 10.400 Mbits/s; Fluxo 4: 10.400 Mbits/s
+5,4.0000-5.0000,4,35.44,Fluxo 1: 8.860 Mbits/s; Fluxo 2: 8.860 Mbits/s; Fluxo 3: 8.860 Mbits/s; Fluxo 4: 8.860 Mbits/s
+5,5.0000-6.0000,4,37.52,Fluxo 1: 9.380 Mbits/s; Fluxo 2: 9.380 Mbits/s; Fluxo 3: 9.380 Mbits/s; Fluxo 4: 9.380 Mbits/s
+5,6.0000-7.0000,4,22.92,Fluxo 1: 5.730 Mbits/s; Fluxo 2: 5.730 Mbits/s; Fluxo 3: 5.730 Mbits/s; Fluxo 4: 5.730 Mbits/s
+5,7.0000-8.0000,4,44.0,Fluxo 1: 11.000 Mbits/s; Fluxo 2: 11.000 Mbits/s; Fluxo 3: 11.000 Mbits/s; Fluxo 4: 11.000 Mbits/s
+5,8.0000-9.0000,4,44.7,Fluxo 1: 10.900 Mbits/s; Fluxo 2: 10.900 Mbits/s; Fluxo 3: 10.900 Mbits/s; Fluxo 4: 12.000 Mbits/s
+5,9.0000-10.0000,4,32.31,Fluxo 1: 8.340 Mbits/s; Fluxo 2: 8.340 Mbits/s; Fluxo 3: 8.340 Mbits/s; Fluxo 4: 7.290 Mbits/s
+5,10.0000-11.0000,4,46.0,Fluxo 1: 11.500 Mbits/s; Fluxo 2: 11.500 Mbits/s; Fluxo 3: 11.500 Mbits/s; Fluxo 4: 11.500 Mbits/s
+5,11.0000-12.0000,4,41.63,Fluxo 1: 8.840 Mbits/s; Fluxo 2: 9.890 Mbits/s; Fluxo 3: 10.900 Mbits/s; Fluxo 4: 12.000 Mbits/s
+5,12.0000-13.0000,4,32.85,Fluxo 1: 9.920 Mbits/s; Fluxo 2: 8.870 Mbits/s; Fluxo 3: 7.820 Mbits/s; Fluxo 4: 6.240 Mbits/s
+5,13.0000-14.0000,4,58.9,Fluxo 1: 14.600 Mbits/s; Fluxo 2: 14.600 Mbits/s; Fluxo 3: 14.600 Mbits/s; Fluxo 4: 15.100 Mbits/s
+5,14.0000-15.0000,4,52.1,Fluxo 1: 11.500 Mbits/s; Fluxo 2: 11.500 Mbits/s; Fluxo 3: 13.500 Mbits/s; Fluxo 4: 15.600 Mbits/s
+5,15.0000-16.0000,4,65.3,Fluxo 1: 18.300 Mbits/s; Fluxo 2: 17.800 Mbits/s; Fluxo 3: 15.100 Mbits/s; Fluxo 4: 14.100 Mbits/s
+5,16.0000-17.0000,4,83.5,Fluxo 1: 19.300 Mbits/s; Fluxo 2: 19.300 Mbits/s; Fluxo 3: 22.400 Mbits/s; Fluxo 4: 22.500 Mbits/s
+5,17.0000-18.0000,4,94.6,Fluxo 1: 22.500 Mbits/s; Fluxo 2: 23.000 Mbits/s; Fluxo 3: 20.400 Mbits/s; Fluxo 4: 28.700 Mbits/s
+5,18.0000-19.0000,4,96.80000000000001,Fluxo 1: 28.600 Mbits/s; Fluxo 2: 21.000 Mbits/s; Fluxo 3: 30.600 Mbits/s; Fluxo 4: 16.600 Mbits/s
+5,19.0000-20.0000,4,56.9,Fluxo 1: 13.500 Mbits/s; Fluxo 2: 16.000 Mbits/s; Fluxo 3: 11.500 Mbits/s; Fluxo 4: 15.900 Mbits/s
+5,20.0000-21.0000,4,123.3,Fluxo 1: 29.100 Mbits/s; Fluxo 2: 34.900 Mbits/s; Fluxo 3: 29.400 Mbits/s; Fluxo 4: 29.900 Mbits/s
+5,21.0000-22.0000,4,60.11,Fluxo 1: 6.010 Mbits/s; Fluxo 2: 24.900 Mbits/s; Fluxo 3: 14.400 Mbits/s; Fluxo 4: 14.800 Mbits/s
+5,22.0000-23.0000,4,92.9,Fluxo 1: 17.800 Mbits/s; Fluxo 2: 19.300 Mbits/s; Fluxo 3: 28.200 Mbits/s; Fluxo 4: 27.600 Mbits/s
+5,23.0000-24.0000,4,87.7,Fluxo 1: 16.100 Mbits/s; Fluxo 2: 34.600 Mbits/s; Fluxo 3: 19.300 Mbits/s; Fluxo 4: 17.700 Mbits/s
+5,24.0000-25.0000,4,84.4,Fluxo 1: 17.700 Mbits/s; Fluxo 2: 29.300 Mbits/s; Fluxo 3: 17.100 Mbits/s; Fluxo 4: 20.300 Mbits/s
+5,25.0000-26.0000,4,97.6,Fluxo 1: 18.800 Mbits/s; Fluxo 2: 31.400 Mbits/s; Fluxo 3: 28.100 Mbits/s; Fluxo 4: 19.300 Mbits/s
+5,26.0000-27.0000,4,95.8,Fluxo 1: 25.000 Mbits/s; Fluxo 2: 29.000 Mbits/s; Fluxo 3: 20.400 Mbits/s; Fluxo 4: 21.400 Mbits/s
+5,27.0000-28.0000,4,91.7,Fluxo 1: 15.100 Mbits/s; Fluxo 2: 31.400 Mbits/s; Fluxo 3: 17.100 Mbits/s; Fluxo 4: 28.100 Mbits/s
+5,28.0000-29.0000,4,85.7,Fluxo 1: 19.800 Mbits/s; Fluxo 2: 29.400 Mbits/s; Fluxo 3: 18.200 Mbits/s; Fluxo 4: 18.300 Mbits/s
+5,29.0000-30.0000,4,88.9,Fluxo 1: 18.800 Mbits/s; Fluxo 2: 30.900 Mbits/s; Fluxo 3: 21.500 Mbits/s; Fluxo 4: 17.700 Mbits/s
+5,30.0000-31.0000,4,86.2,Fluxo 1: 16.100 Mbits/s; Fluxo 2: 20.600 Mbits/s; Fluxo 3: 29.200 Mbits/s; Fluxo 4: 20.300 Mbits/s
+5,31.0000-32.0000,4,98.5,Fluxo 1: 20.900 Mbits/s; Fluxo 2: 41.200 Mbits/s; Fluxo 3: 17.100 Mbits/s; Fluxo 4: 19.300 Mbits/s
+5,32.0000-33.0000,4,88.3,Fluxo 1: 20.400 Mbits/s; Fluxo 2: 20.500 Mbits/s; Fluxo 3: 18.700 Mbits/s; Fluxo 4: 28.700 Mbits/s
+5,33.0000-34.0000,4,108.3,Fluxo 1: 27.600 Mbits/s; Fluxo 2: 41.000 Mbits/s; Fluxo 3: 21.500 Mbits/s; Fluxo 4: 18.200 Mbits/s
+5,34.0000-35.0000,4,75.3,Fluxo 1: 17.100 Mbits/s; Fluxo 2: 20.200 Mbits/s; Fluxo 3: 17.700 Mbits/s; Fluxo 4: 20.300 Mbits/s
+5,35.0000-36.0000,4,85.5,Fluxo 1: 18.200 Mbits/s; Fluxo 2: 28.700 Mbits/s; Fluxo 3: 18.700 Mbits/s; Fluxo 4: 19.900 Mbits/s
+5,36.0000-37.0000,4,94.5,Fluxo 1: 21.500 Mbits/s; Fluxo 2: 30.800 Mbits/s; Fluxo 3: 23.000 Mbits/s; Fluxo 4: 19.200 Mbits/s
+5,37.0000-38.0000,4,71.6,Fluxo 1: 15.000 Mbits/s; Fluxo 2: 19.100 Mbits/s; Fluxo 3: 18.200 Mbits/s; Fluxo 4: 19.300 Mbits/s
+5,38.0000-39.0000,4,121.0,Fluxo 1: 23.500 Mbits/s; Fluxo 2: 40.000 Mbits/s; Fluxo 3: 30.300 Mbits/s; Fluxo 4: 27.200 Mbits/s
+5,39.0000-40.0000,4,84.5,Fluxo 1: 16.100 Mbits/s; Fluxo 2: 31.500 Mbits/s; Fluxo 3: 14.100 Mbits/s; Fluxo 4: 22.800 Mbits/s
+5,40.0000-41.0000,3,51.099999999999994,Fluxo 1: 17.200 Mbits/s; Fluxo 3: 20.900 Mbits/s; Fluxo 4: 13.000 Mbits/s
+5,40.0000-41.3817,1,14.9,Fluxo 2: 14.900 Mbits/s
+5,41.0000-42.0000,3,62.0,Fluxo 1: 19.300 Mbits/s; Fluxo 3: 20.800 Mbits/s; Fluxo 4: 21.900 Mbits/s
+5,42.0000-43.0000,3,73.0,Fluxo 1: 31.300 Mbits/s; Fluxo 3: 21.400 Mbits/s; Fluxo 4: 20.300 Mbits/s
+5,43.0000-44.0000,3,75.2,Fluxo 1: 21.900 Mbits/s; Fluxo 3: 23.100 Mbits/s; Fluxo 4: 30.200 Mbits/s
+5,44.0000-45.0000,3,77.3,Fluxo 1: 21.400 Mbits/s; Fluxo 3: 32.800 Mbits/s; Fluxo 4: 23.100 Mbits/s
+5,45.0000-46.0000,3,77.3,Fluxo 1: 22.900 Mbits/s; Fluxo 3: 23.100 Mbits/s; Fluxo 4: 31.300 Mbits/s
+5,46.0000-47.0000,3,77.8,Fluxo 1: 33.900 Mbits/s; Fluxo 3: 23.100 Mbits/s; Fluxo 4: 20.800 Mbits/s
+5,47.0000-48.0000,1,19.2,Fluxo 1: 19.200 Mbits/s
+5,47.0000-48.3138,1,12.7,Fluxo 3: 12.700 Mbits/s
+5,47.0000-48.2169,1,11.0,Fluxo 4: 11.000 Mbits/s
+5,48.0000-49.0000,1,29.7,Fluxo 1: 29.700 Mbits/s
+5,49.0000-50.2435,1,5.13,Fluxo 1: 5.130 Mbits/s
+6,0.0000-1.0000,4,3.39453125,Fluxo 1: 0.849 Mbits/s; Fluxo 2: 0.849 Mbits/s; Fluxo 3: 0.849 Mbits/s; Fluxo 4: 0.849 Mbits/s
+6,1.0000-2.0000,4,12.08,Fluxo 1: 3.020 Mbits/s; Fluxo 2: 3.020 Mbits/s; Fluxo 3: 3.020 Mbits/s; Fluxo 4: 3.020 Mbits/s
+6,2.0000-3.0000,4,31.32,Fluxo 1: 7.830 Mbits/s; Fluxo 2: 7.830 Mbits/s; Fluxo 3: 7.830 Mbits/s; Fluxo 4: 7.830 Mbits/s
+6,3.0000-4.0000,4,54.2,Fluxo 1: 23.000 Mbits/s; Fluxo 2: 10.400 Mbits/s; Fluxo 3: 10.400 Mbits/s; Fluxo 4: 10.400 Mbits/s
+6,4.0000-5.0000,4,46.879999999999995,Fluxo 1: 20.300 Mbits/s; Fluxo 2: 8.860 Mbits/s; Fluxo 3: 8.860 Mbits/s; Fluxo 4: 8.860 Mbits/s
+6,5.0000-6.0000,4,29.57,Fluxo 1: 14.000 Mbits/s; Fluxo 2: 5.190 Mbits/s; Fluxo 3: 5.190 Mbits/s; Fluxo 4: 5.190 Mbits/s
+6,6.0000-7.0000,4,56.43,Fluxo 1: 28.200 Mbits/s; Fluxo 2: 9.410 Mbits/s; Fluxo 3: 9.410 Mbits/s; Fluxo 4: 9.410 Mbits/s
+6,7.0000-8.0000,4,62.7,Fluxo 1: 28.200 Mbits/s; Fluxo 2: 11.500 Mbits/s; Fluxo 3: 11.500 Mbits/s; Fluxo 4: 11.500 Mbits/s
+6,8.0000-9.0000,4,38.43,Fluxo 1: 19.200 Mbits/s; Fluxo 2: 6.760 Mbits/s; Fluxo 3: 6.230 Mbits/s; Fluxo 4: 6.240 Mbits/s
+6,9.0000-10.0000,4,79.2,Fluxo 1: 40.500 Mbits/s; Fluxo 2: 12.500 Mbits/s; Fluxo 3: 13.100 Mbits/s; Fluxo 4: 13.100 Mbits/s
+6,10.0000-11.0000,4,65.0,Fluxo 1: 32.700 Mbits/s; Fluxo 2: 10.400 Mbits/s; Fluxo 3: 10.400 Mbits/s; Fluxo 4: 11.500 Mbits/s
+6,11.0000-12.0000,4,40.05,Fluxo 1: 20.800 Mbits/s; Fluxo 2: 6.770 Mbits/s; Fluxo 3: 6.760 Mbits/s; Fluxo 4: 5.720 Mbits/s
+6,12.0000-13.0000,4,80.6,Fluxo 1: 41.900 Mbits/s; Fluxo 2: 13.100 Mbits/s; Fluxo 3: 12.500 Mbits/s; Fluxo 4: 13.100 Mbits/s
+6,13.0000-14.0000,4,58.55,Fluxo 1: 31.500 Mbits/s; Fluxo 2: 9.360 Mbits/s; Fluxo 3: 9.890 Mbits/s; Fluxo 4: 7.800 Mbits/s
+6,14.0000-15.0000,4,77.39999999999999,Fluxo 1: 30.400 Mbits/s; Fluxo 2: 15.100 Mbits/s; Fluxo 3: 15.200 Mbits/s; Fluxo 4: 16.700 Mbits/s
+6,15.0000-16.0000,4,92.4,Fluxo 1: 43.000 Mbits/s; Fluxo 2: 15.600 Mbits/s; Fluxo 3: 19.800 Mbits/s; Fluxo 4: 14.000 Mbits/s
+6,16.0000-17.0000,4,90.0,Fluxo 1: 21.100 Mbits/s; Fluxo 2: 18.300 Mbits/s; Fluxo 3: 25.600 Mbits/s; Fluxo 4: 25.000 Mbits/s
+6,17.0000-18.0000,4,88.5,Fluxo 1: 32.700 Mbits/s; Fluxo 2: 19.800 Mbits/s; Fluxo 3: 15.100 Mbits/s; Fluxo 4: 20.900 Mbits/s
+6,18.0000-19.0000,4,74.2,Fluxo 1: 25.500 Mbits/s; Fluxo 2: 17.500 Mbits/s; Fluxo 3: 17.000 Mbits/s; Fluxo 4: 14.200 Mbits/s
+6,19.0000-20.0000,4,71.1,Fluxo 1: 28.700 Mbits/s; Fluxo 2: 10.700 Mbits/s; Fluxo 3: 18.400 Mbits/s; Fluxo 4: 13.300 Mbits/s
+6,20.0000-21.0000,4,94.9,Fluxo 1: 10.000 Mbits/s; Fluxo 2: 40.500 Mbits/s; Fluxo 3: 19.300 Mbits/s; Fluxo 4: 25.100 Mbits/s
+6,21.0000-22.0000,4,85.45,Fluxo 1: 30.200 Mbits/s; Fluxo 2: 7.750 Mbits/s; Fluxo 3: 21.900 Mbits/s; Fluxo 4: 25.600 Mbits/s
+6,22.0000-23.0000,4,99.6,Fluxo 1: 30.300 Mbits/s; Fluxo 2: 31.300 Mbits/s; Fluxo 3: 20.300 Mbits/s; Fluxo 4: 17.700 Mbits/s
+6,23.0000-24.0000,4,85.2,Fluxo 1: 33.600 Mbits/s; Fluxo 2: 23.000 Mbits/s; Fluxo 3: 12.500 Mbits/s; Fluxo 4: 16.100 Mbits/s
+6,24.0000-25.0000,4,103.1,Fluxo 1: 22.000 Mbits/s; Fluxo 2: 40.800 Mbits/s; Fluxo 3: 22.000 Mbits/s; Fluxo 4: 18.300 Mbits/s
+6,25.0000-26.0000,4,79.0,Fluxo 1: 32.500 Mbits/s; Fluxo 2: 18.400 Mbits/s; Fluxo 3: 11.400 Mbits/s; Fluxo 4: 16.700 Mbits/s
+6,26.0000-27.0000,4,96.4,Fluxo 1: 32.500 Mbits/s; Fluxo 2: 27.800 Mbits/s; Fluxo 3: 16.700 Mbits/s; Fluxo 4: 19.400 Mbits/s
+6,27.0000-28.0000,4,91.4,Fluxo 1: 31.500 Mbits/s; Fluxo 2: 28.700 Mbits/s; Fluxo 3: 18.800 Mbits/s; Fluxo 4: 12.400 Mbits/s
+6,28.0000-29.0000,4,92.3,Fluxo 1: 21.000 Mbits/s; Fluxo 2: 28.600 Mbits/s; Fluxo 3: 25.000 Mbits/s; Fluxo 4: 17.700 Mbits/s
+6,29.0000-30.0000,4,94.3,Fluxo 1: 32.500 Mbits/s; Fluxo 2: 29.900 Mbits/s; Fluxo 3: 12.500 Mbits/s; Fluxo 4: 19.400 Mbits/s
+6,30.0000-31.0000,4,76.1,Fluxo 1: 31.500 Mbits/s; Fluxo 2: 19.200 Mbits/s; Fluxo 3: 11.900 Mbits/s; Fluxo 4: 13.500 Mbits/s
+6,31.0000-32.0000,4,91.7,Fluxo 1: 31.500 Mbits/s; Fluxo 2: 29.400 Mbits/s; Fluxo 3: 13.600 Mbits/s; Fluxo 4: 17.200 Mbits/s
+6,32.0000-33.0011,1,6.64,Fluxo 1: 6.640 Mbits/s
+6,32.0000-33.0000,3,78.6,Fluxo 2: 30.500 Mbits/s; Fluxo 3: 23.100 Mbits/s; Fluxo 4: 25.000 Mbits/s
+6,33.0000-34.0000,3,76.4,Fluxo 2: 32.500 Mbits/s; Fluxo 3: 24.000 Mbits/s; Fluxo 4: 19.900 Mbits/s
+6,34.0000-35.0000,3,66.2,Fluxo 2: 22.000 Mbits/s; Fluxo 3: 25.000 Mbits/s; Fluxo 4: 19.200 Mbits/s
+6,35.0000-36.0000,3,78.4,Fluxo 2: 44.000 Mbits/s; Fluxo 3: 15.100 Mbits/s; Fluxo 4: 19.300 Mbits/s
+6,36.0000-37.0000,3,73.7,Fluxo 2: 33.600 Mbits/s; Fluxo 3: 18.800 Mbits/s; Fluxo 4: 21.300 Mbits/s
+6,37.0000-38.0000,3,88.4,Fluxo 2: 31.500 Mbits/s; Fluxo 3: 25.000 Mbits/s; Fluxo 4: 31.900 Mbits/s
+6,38.0000-39.0000,3,68.4,Fluxo 2: 32.500 Mbits/s; Fluxo 3: 17.700 Mbits/s; Fluxo 4: 18.200 Mbits/s
+6,39.0000-40.0000,3,105.5,Fluxo 2: 32.500 Mbits/s; Fluxo 3: 41.100 Mbits/s; Fluxo 4: 31.900 Mbits/s
+6,40.0000-41.0000,3,78.2,Fluxo 2: 40.100 Mbits/s; Fluxo 3: 17.100 Mbits/s; Fluxo 4: 21.000 Mbits/s
+6,41.0000-42.1203,1,1.07,Fluxo 2: 1.070 Mbits/s
+6,41.0000-42.0000,2,72.2,Fluxo 3: 39.700 Mbits/s; Fluxo 4: 32.500 Mbits/s
+6,42.0000-43.0000,2,52.5,Fluxo 3: 21.000 Mbits/s; Fluxo 4: 31.500 Mbits/s
+6,43.0000-44.0000,2,82.1,Fluxo 3: 40.200 Mbits/s; Fluxo 4: 41.900 Mbits/s
+6,44.0000-45.0000,2,63.2,Fluxo 3: 31.700 Mbits/s; Fluxo 4: 31.500 Mbits/s
+6,45.0000-46.0000,2,77.69999999999999,Fluxo 3: 36.800 Mbits/s; Fluxo 4: 40.900 Mbits/s
+6,46.0000-47.5566,1,19.1,Fluxo 3: 19.100 Mbits/s
+6,46.0000-46.9781,1,15.5,Fluxo 4: 15.500 Mbits/s
+7,0.0000-1.0000,4,3.39453125,Fluxo 1: 0.849 Mbits/s; Fluxo 2: 0.849 Mbits/s; Fluxo 3: 0.849 Mbits/s; Fluxo 4: 0.849 Mbits/s
+7,1.0000-2.0000,4,12.04,Fluxo 1: 3.020 Mbits/s; Fluxo 2: 3.020 Mbits/s; Fluxo 3: 3.020 Mbits/s; Fluxo 4: 2.980 Mbits/s
+7,2.0000-3.0000,4,31.32,Fluxo 1: 7.830 Mbits/s; Fluxo 2: 7.830 Mbits/s; Fluxo 3: 7.830 Mbits/s; Fluxo 4: 7.830 Mbits/s
+7,3.0000-4.0000,4,41.6,Fluxo 1: 10.400 Mbits/s; Fluxo 2: 10.400 Mbits/s; Fluxo 3: 10.400 Mbits/s; Fluxo 4: 10.400 Mbits/s
+7,4.0000-5.0000,4,35.44,Fluxo 1: 8.860 Mbits/s; Fluxo 2: 8.860 Mbits/s; Fluxo 3: 8.860 Mbits/s; Fluxo 4: 8.860 Mbits/s
+7,5.0000-6.0000,4,37.52,Fluxo 1: 9.380 Mbits/s; Fluxo 2: 9.380 Mbits/s; Fluxo 3: 9.380 Mbits/s; Fluxo 4: 9.380 Mbits/s
+7,6.0000-7.0000,4,21.880000000000003,Fluxo 1: 5.210 Mbits/s; Fluxo 2: 5.730 Mbits/s; Fluxo 3: 5.210 Mbits/s; Fluxo 4: 5.730 Mbits/s
+7,7.0000-8.0000,4,45.0,Fluxo 1: 11.500 Mbits/s; Fluxo 2: 11.000 Mbits/s; Fluxo 3: 11.500 Mbits/s; Fluxo 4: 11.000 Mbits/s
+7,8.0000-9.0000,4,45.8,Fluxo 1: 12.000 Mbits/s; Fluxo 2: 10.900 Mbits/s; Fluxo 3: 10.900 Mbits/s; Fluxo 4: 12.000 Mbits/s
+7,9.0000-10.0000,4,30.73,Fluxo 1: 7.290 Mbits/s; Fluxo 2: 8.340 Mbits/s; Fluxo 3: 8.340 Mbits/s; Fluxo 4: 6.760 Mbits/s
+7,10.0000-11.0000,4,46.0,Fluxo 1: 11.500 Mbits/s; Fluxo 2: 11.500 Mbits/s; Fluxo 3: 11.500 Mbits/s; Fluxo 4: 11.500 Mbits/s
+7,11.0000-12.0000,4,43.230000000000004,Fluxo 1: 12.000 Mbits/s; Fluxo 2: 9.890 Mbits/s; Fluxo 3: 8.840 Mbits/s; Fluxo 4: 12.500 Mbits/s
+7,12.0000-13.0000,4,31.27,Fluxo 1: 6.240 Mbits/s; Fluxo 2: 8.870 Mbits/s; Fluxo 3: 9.400 Mbits/s; Fluxo 4: 6.760 Mbits/s
+7,13.0000-14.0000,4,58.4,Fluxo 1: 15.100 Mbits/s; Fluxo 2: 14.100 Mbits/s; Fluxo 3: 14.600 Mbits/s; Fluxo 4: 14.600 Mbits/s
+7,14.0000-15.0000,4,51.0,Fluxo 1: 13.500 Mbits/s; Fluxo 2: 12.000 Mbits/s; Fluxo 3: 12.000 Mbits/s; Fluxo 4: 13.500 Mbits/s
+7,15.0000-16.0000,4,66.3,Fluxo 1: 15.100 Mbits/s; Fluxo 2: 17.800 Mbits/s; Fluxo 3: 17.200 Mbits/s; Fluxo 4: 16.200 Mbits/s
+7,16.0000-17.0000,4,82.5,Fluxo 1: 22.500 Mbits/s; Fluxo 2: 19.800 Mbits/s; Fluxo 3: 17.700 Mbits/s; Fluxo 4: 22.500 Mbits/s
+7,17.0000-18.0000,4,112.4,Fluxo 1: 29.700 Mbits/s; Fluxo 2: 22.500 Mbits/s; Fluxo 3: 29.500 Mbits/s; Fluxo 4: 30.700 Mbits/s
+7,18.0000-19.0000,4,81.4,Fluxo 1: 17.100 Mbits/s; Fluxo 2: 28.700 Mbits/s; Fluxo 3: 17.200 Mbits/s; Fluxo 4: 18.400 Mbits/s
+7,19.0000-20.0000,4,62.4,Fluxo 1: 17.900 Mbits/s; Fluxo 2: 13.000 Mbits/s; Fluxo 3: 16.300 Mbits/s; Fluxo 4: 15.200 Mbits/s
+7,20.0000-21.0000,4,127.80000000000001,Fluxo 1: 29.700 Mbits/s; Fluxo 2: 30.300 Mbits/s; Fluxo 3: 37.200 Mbits/s; Fluxo 4: 30.600 Mbits/s
+7,21.0000-22.0000,4,44.337109375,Fluxo 1: 18.700 Mbits/s; Fluxo 2: 10.300 Mbits/s; Fluxo 3: 0.537 Mbits/s; Fluxo 4: 14.800 Mbits/s
+7,22.0000-23.0000,4,57.6,Fluxo 1: 23.600 Mbits/s; Fluxo 2: 12.500 Mbits/s; Fluxo 3: 0.000 Mbits/s; Fluxo 4: 21.500 Mbits/s
+7,23.0000-24.0000,4,64.80878906250001,Fluxo 1: 27.100 Mbits/s; Fluxo 2: 16.100 Mbits/s; Fluxo 3: 0.509 Mbits/s; Fluxo 4: 21.100 Mbits/s
+7,24.0000-25.0000,4,58.339999999999996,Fluxo 1: 18.200 Mbits/s; Fluxo 2: 17.700 Mbits/s; Fluxo 3: 1.040 Mbits/s; Fluxo 4: 21.400 Mbits/s
+7,25.0000-26.0000,4,65.64999999999999,Fluxo 1: 21.900 Mbits/s; Fluxo 2: 11.400 Mbits/s; Fluxo 3: 3.650 Mbits/s; Fluxo 4: 28.700 Mbits/s
+7,26.0000-27.0000,4,81.95,Fluxo 1: 32.400 Mbits/s; Fluxo 2: 16.200 Mbits/s; Fluxo 3: 5.750 Mbits/s; Fluxo 4: 27.600 Mbits/s
+7,27.0000-28.0000,4,70.8,Fluxo 1: 18.200 Mbits/s; Fluxo 2: 19.800 Mbits/s; Fluxo 3: 15.100 Mbits/s; Fluxo 4: 17.700 Mbits/s
+7,28.0000-29.0000,4,66.6,Fluxo 1: 21.900 Mbits/s; Fluxo 2: 13.000 Mbits/s; Fluxo 3: 14.000 Mbits/s; Fluxo 4: 17.700 Mbits/s
+7,29.0000-30.0000,4,99.8,Fluxo 1: 32.400 Mbits/s; Fluxo 2: 16.200 Mbits/s; Fluxo 3: 21.500 Mbits/s; Fluxo 4: 29.700 Mbits/s
+7,30.0000-31.0000,4,85.6,Fluxo 1: 18.200 Mbits/s; Fluxo 2: 19.800 Mbits/s; Fluxo 3: 24.500 Mbits/s; Fluxo 4: 23.100 Mbits/s
+7,31.0000-32.0000,4,80.9,Fluxo 1: 23.100 Mbits/s; Fluxo 2: 14.600 Mbits/s; Fluxo 3: 14.500 Mbits/s; Fluxo 4: 28.700 Mbits/s
+7,32.0000-33.0000,4,89.1,Fluxo 1: 30.200 Mbits/s; Fluxo 2: 14.600 Mbits/s; Fluxo 3: 15.100 Mbits/s; Fluxo 4: 29.200 Mbits/s
+7,33.0000-34.0000,4,83.8,Fluxo 1: 18.200 Mbits/s; Fluxo 2: 19.800 Mbits/s; Fluxo 3: 27.100 Mbits/s; Fluxo 4: 18.700 Mbits/s
+7,34.0000-35.0000,4,91.1,Fluxo 1: 29.700 Mbits/s; Fluxo 2: 16.100 Mbits/s; Fluxo 3: 27.100 Mbits/s; Fluxo 4: 18.200 Mbits/s
+7,35.0000-36.0000,4,95.0,Fluxo 1: 29.700 Mbits/s; Fluxo 2: 14.100 Mbits/s; Fluxo 3: 21.500 Mbits/s; Fluxo 4: 29.700 Mbits/s
+7,36.0000-37.0000,4,91.3,Fluxo 1: 19.700 Mbits/s; Fluxo 2: 21.400 Mbits/s; Fluxo 3: 27.100 Mbits/s; Fluxo 4: 23.100 Mbits/s
+7,37.0000-38.0000,4,80.9,Fluxo 1: 23.100 Mbits/s; Fluxo 2: 12.500 Mbits/s; Fluxo 3: 14.500 Mbits/s; Fluxo 4: 30.800 Mbits/s
+7,38.0000-39.0000,4,101.2,Fluxo 1: 31.800 Mbits/s; Fluxo 2: 23.000 Mbits/s; Fluxo 3: 26.100 Mbits/s; Fluxo 4: 20.300 Mbits/s
+7,39.0000-40.0000,4,91.8,Fluxo 1: 21.100 Mbits/s; Fluxo 2: 25.000 Mbits/s; Fluxo 3: 15.000 Mbits/s; Fluxo 4: 30.700 Mbits/s
+7,40.0000-41.0000,4,89.3,Fluxo 1: 24.200 Mbits/s; Fluxo 2: 13.000 Mbits/s; Fluxo 3: 26.100 Mbits/s; Fluxo 4: 26.000 Mbits/s
+7,41.0000-42.0000,4,60.370000000000005,Fluxo 1: 19.100 Mbits/s; Fluxo 2: 18.000 Mbits/s; Fluxo 3: 7.770 Mbits/s; Fluxo 4: 15.500 Mbits/s
+7,42.0000-43.0000,4,82.39,Fluxo 1: 37.200 Mbits/s; Fluxo 2: 31.400 Mbits/s; Fluxo 3: 7.790 Mbits/s; Fluxo 4: 6.000 Mbits/s
+7,43.0000-44.0000,4,89.5,Fluxo 1: 21.200 Mbits/s; Fluxo 2: 13.500 Mbits/s; Fluxo 3: 24.100 Mbits/s; Fluxo 4: 30.700 Mbits/s
+7,44.0000-45.5784,1,7.09,Fluxo 1: 7.090 Mbits/s
+7,44.0000-45.0000,3,55.9,Fluxo 2: 22.500 Mbits/s; Fluxo 3: 14.600 Mbits/s; Fluxo 4: 18.800 Mbits/s
+7,45.0000-46.0000,3,61.6,Fluxo 2: 27.700 Mbits/s; Fluxo 3: 14.100 Mbits/s; Fluxo 4: 19.800 Mbits/s
+7,46.0000-47.0000,2,27.53,Fluxo 2: 18.700 Mbits/s; Fluxo 3: 8.830 Mbits/s
+7,46.0000-47.3161,1,0.8505859375,Fluxo 4: 0.851 Mbits/s
+7,47.0000-48.0000,2,47.0,Fluxo 2: 30.800 Mbits/s; Fluxo 3: 16.200 Mbits/s
+7,48.0000-49.0000,2,46.5,Fluxo 2: 30.300 Mbits/s; Fluxo 3: 16.200 Mbits/s
+7,49.0000-50.0000,2,30.6,Fluxo 2: 19.700 Mbits/s; Fluxo 3: 10.900 Mbits/s
+7,50.0000-51.0000,2,47.0,Fluxo 2: 30.800 Mbits/s; Fluxo 3: 16.200 Mbits/s
+7,51.0000-51.8850,1,4.03,Fluxo 2: 4.030 Mbits/s
+7,51.0000-52.0000,1,16.2,Fluxo 3: 16.200 Mbits/s
+7,52.0000-53.0000,1,12.0,Fluxo 3: 12.000 Mbits/s
+7,53.0000-54.0000,1,14.6,Fluxo 3: 14.600 Mbits/s
+7,54.0000-55.0000,1,16.2,Fluxo 3: 16.200 Mbits/s
+7,55.0000-56.0000,1,13.5,Fluxo 3: 13.500 Mbits/s
+7,56.0000-57.0000,1,14.1,Fluxo 3: 14.100 Mbits/s
+7,57.0000-58.0000,1,18.8,Fluxo 3: 18.800 Mbits/s
+7,58.0000-59.0000,1,17.2,Fluxo 3: 17.200 Mbits/s
+7,59.0000-60.9495,1,5.69,Fluxo 3: 5.690 Mbits/s
+8,0.0000-1.0000,4,3.39453125,Fluxo 1: 0.849 Mbits/s; Fluxo 2: 0.849 Mbits/s; Fluxo 3: 0.849 Mbits/s; Fluxo 4: 0.849 Mbits/s
+8,1.0000-2.0000,4,12.05,Fluxo 1: 3.020 Mbits/s; Fluxo 2: 3.020 Mbits/s; Fluxo 3: 3.020 Mbits/s; Fluxo 4: 2.990 Mbits/s
+8,2.0000-3.0000,4,31.32,Fluxo 1: 7.830 Mbits/s; Fluxo 2: 7.830 Mbits/s; Fluxo 3: 7.830 Mbits/s; Fluxo 4: 7.830 Mbits/s
+8,3.0000-4.0000,4,54.2,Fluxo 1: 23.000 Mbits/s; Fluxo 2: 10.400 Mbits/s; Fluxo 3: 10.400 Mbits/s; Fluxo 4: 10.400 Mbits/s
+8,4.0000-5.0000,4,35.9,Fluxo 1: 9.320 Mbits/s; Fluxo 2: 8.860 Mbits/s; Fluxo 3: 8.860 Mbits/s; Fluxo 4: 8.860 Mbits/s
+8,5.0000-6.0000,4,38.06,Fluxo 1: 14.100 Mbits/s; Fluxo 2: 7.290 Mbits/s; Fluxo 3: 9.380 Mbits/s; Fluxo 4: 7.290 Mbits/s
+8,6.0000-7.0000,4,30.75,Fluxo 1: 10.400 Mbits/s; Fluxo 2: 7.310 Mbits/s; Fluxo 3: 5.730 Mbits/s; Fluxo 4: 7.310 Mbits/s
+8,7.0000-8.0000,4,47.1,Fluxo 1: 13.100 Mbits/s; Fluxo 2: 11.500 Mbits/s; Fluxo 3: 11.000 Mbits/s; Fluxo 4: 11.500 Mbits/s
+8,8.0000-9.0000,4,45.3,Fluxo 1: 17.700 Mbits/s; Fluxo 2: 7.800 Mbits/s; Fluxo 3: 12.000 Mbits/s; Fluxo 4: 7.800 Mbits/s
+8,9.0000-10.0000,4,44.89,Fluxo 1: 14.600 Mbits/s; Fluxo 2: 11.500 Mbits/s; Fluxo 3: 7.290 Mbits/s; Fluxo 4: 11.500 Mbits/s
+8,10.0000-11.0000,4,49.0,Fluxo 1: 15.100 Mbits/s; Fluxo 2: 11.500 Mbits/s; Fluxo 3: 11.500 Mbits/s; Fluxo 4: 10.900 Mbits/s
+8,11.0000-12.0000,4,46.9,Fluxo 1: 23.000 Mbits/s; Fluxo 2: 6.230 Mbits/s; Fluxo 3: 10.400 Mbits/s; Fluxo 4: 7.270 Mbits/s
+8,12.0000-13.0000,4,55.239999999999995,Fluxo 1: 23.400 Mbits/s; Fluxo 2: 12.000 Mbits/s; Fluxo 3: 8.340 Mbits/s; Fluxo 4: 11.500 Mbits/s
+8,13.0000-14.0000,4,61.099999999999994,Fluxo 1: 15.100 Mbits/s; Fluxo 2: 15.700 Mbits/s; Fluxo 3: 14.600 Mbits/s; Fluxo 4: 15.700 Mbits/s
+8,14.0000-15.0000,4,48.87,Fluxo 1: 18.200 Mbits/s; Fluxo 2: 8.320 Mbits/s; Fluxo 3: 13.500 Mbits/s; Fluxo 4: 8.850 Mbits/s
+8,15.0000-16.0000,4,98.2,Fluxo 1: 30.800 Mbits/s; Fluxo 2: 20.400 Mbits/s; Fluxo 3: 26.100 Mbits/s; Fluxo 4: 20.900 Mbits/s
+8,16.0000-17.0000,4,81.4,Fluxo 1: 31.500 Mbits/s; Fluxo 2: 18.200 Mbits/s; Fluxo 3: 15.600 Mbits/s; Fluxo 4: 16.100 Mbits/s
+8,17.0000-18.0000,4,91.6,Fluxo 1: 27.500 Mbits/s; Fluxo 2: 24.200 Mbits/s; Fluxo 3: 19.000 Mbits/s; Fluxo 4: 20.900 Mbits/s
+8,18.0000-19.0000,4,84.1,Fluxo 1: 25.100 Mbits/s; Fluxo 2: 16.500 Mbits/s; Fluxo 3: 21.500 Mbits/s; Fluxo 4: 21.000 Mbits/s
+8,19.0000-20.0000,4,56.4,Fluxo 1: 11.000 Mbits/s; Fluxo 2: 10.400 Mbits/s; Fluxo 3: 12.800 Mbits/s; Fluxo 4: 22.200 Mbits/s
+8,20.0000-21.0000,4,119.0,Fluxo 1: 32.500 Mbits/s; Fluxo 2: 30.400 Mbits/s; Fluxo 3: 36.400 Mbits/s; Fluxo 4: 19.700 Mbits/s
+8,21.0000-22.0000,4,76.1,Fluxo 1: 22.700 Mbits/s; Fluxo 2: 16.900 Mbits/s; Fluxo 3: 17.800 Mbits/s; Fluxo 4: 18.700 Mbits/s
+8,22.0000-23.0000,4,101.3,Fluxo 1: 30.700 Mbits/s; Fluxo 2: 33.500 Mbits/s; Fluxo 3: 21.500 Mbits/s; Fluxo 4: 15.600 Mbits/s
+8,23.0000-24.0000,4,101.6,Fluxo 1: 29.400 Mbits/s; Fluxo 2: 22.000 Mbits/s; Fluxo 3: 32.500 Mbits/s; Fluxo 4: 17.700 Mbits/s
+8,24.0000-25.0000,4,55.26,Fluxo 1: 10.400 Mbits/s; Fluxo 2: 9.960 Mbits/s; Fluxo 3: 23.400 Mbits/s; Fluxo 4: 11.500 Mbits/s
+8,25.0000-26.0000,4,94.0,Fluxo 1: 29.000 Mbits/s; Fluxo 2: 29.700 Mbits/s; Fluxo 3: 14.900 Mbits/s; Fluxo 4: 20.400 Mbits/s
+8,26.0000-27.0000,4,88.6,Fluxo 1: 21.900 Mbits/s; Fluxo 2: 29.200 Mbits/s; Fluxo 3: 20.800 Mbits/s; Fluxo 4: 16.700 Mbits/s
+8,27.0000-28.0000,4,80.9,Fluxo 1: 31.300 Mbits/s; Fluxo 2: 23.100 Mbits/s; Fluxo 3: 15.600 Mbits/s; Fluxo 4: 10.900 Mbits/s
+8,28.0000-29.0000,4,82.9,Fluxo 1: 23.100 Mbits/s; Fluxo 2: 24.400 Mbits/s; Fluxo 3: 17.700 Mbits/s; Fluxo 4: 17.700 Mbits/s
+8,29.0000-30.0000,4,101.8,Fluxo 1: 33.000 Mbits/s; Fluxo 2: 29.200 Mbits/s; Fluxo 3: 19.300 Mbits/s; Fluxo 4: 20.300 Mbits/s
+8,30.0000-31.0000,4,73.7,Fluxo 1: 23.000 Mbits/s; Fluxo 2: 23.100 Mbits/s; Fluxo 3: 17.200 Mbits/s; Fluxo 4: 10.400 Mbits/s
+8,31.0000-32.0000,4,105.5,Fluxo 1: 31.000 Mbits/s; Fluxo 2: 35.900 Mbits/s; Fluxo 3: 18.800 Mbits/s; Fluxo 4: 19.800 Mbits/s
+8,32.0000-33.0000,4,92.5,Fluxo 1: 34.600 Mbits/s; Fluxo 2: 18.800 Mbits/s; Fluxo 3: 20.300 Mbits/s; Fluxo 4: 18.800 Mbits/s
+8,33.0000-34.0000,4,80.3,Fluxo 1: 20.400 Mbits/s; Fluxo 2: 30.200 Mbits/s; Fluxo 3: 17.700 Mbits/s; Fluxo 4: 12.000 Mbits/s
+8,34.0000-35.0000,4,101.4,Fluxo 1: 33.000 Mbits/s; Fluxo 2: 29.800 Mbits/s; Fluxo 3: 18.800 Mbits/s; Fluxo 4: 19.800 Mbits/s
+8,35.0000-36.0000,4,90.9,Fluxo 1: 34.600 Mbits/s; Fluxo 2: 18.200 Mbits/s; Fluxo 3: 21.400 Mbits/s; Fluxo 4: 16.700 Mbits/s
+8,36.0000-37.0000,4,81.0,Fluxo 1: 20.000 Mbits/s; Fluxo 2: 29.800 Mbits/s; Fluxo 3: 17.100 Mbits/s; Fluxo 4: 14.100 Mbits/s
+8,37.0000-38.0000,4,94.9,Fluxo 1: 22.000 Mbits/s; Fluxo 2: 35.900 Mbits/s; Fluxo 3: 16.700 Mbits/s; Fluxo 4: 20.300 Mbits/s
+8,38.0000-39.3575,1,15.9,Fluxo 1: 15.900 Mbits/s
+8,38.0000-39.0000,3,51.7,Fluxo 2: 17.300 Mbits/s; Fluxo 3: 18.800 Mbits/s; Fluxo 4: 15.600 Mbits/s
+8,39.0000-40.0000,3,61.0,Fluxo 2: 23.400 Mbits/s; Fluxo 3: 19.300 Mbits/s; Fluxo 4: 18.300 Mbits/s
+8,40.0000-41.0000,3,70.6,Fluxo 2: 32.000 Mbits/s; Fluxo 3: 21.400 Mbits/s; Fluxo 4: 17.200 Mbits/s
+8,41.0000-42.0000,3,87.9,Fluxo 2: 32.800 Mbits/s; Fluxo 3: 29.600 Mbits/s; Fluxo 4: 25.500 Mbits/s
+8,42.0000-43.0000,3,71.4,Fluxo 2: 32.700 Mbits/s; Fluxo 3: 19.300 Mbits/s; Fluxo 4: 19.400 Mbits/s
+8,43.0000-44.0197,1,10.8,Fluxo 2: 10.800 Mbits/s
+8,43.0000-44.0000,2,52.3,Fluxo 3: 23.100 Mbits/s; Fluxo 4: 29.200 Mbits/s
+8,44.0000-45.0000,2,66.6,Fluxo 3: 34.600 Mbits/s; Fluxo 4: 32.000 Mbits/s
+8,45.0000-46.0000,2,54.5,Fluxo 3: 32.500 Mbits/s; Fluxo 4: 22.000 Mbits/s
+8,46.0000-47.0000,2,65.0,Fluxo 3: 22.000 Mbits/s; Fluxo 4: 43.000 Mbits/s
+8,47.0000-48.0915,1,18.8,Fluxo 3: 18.800 Mbits/s
+8,47.0000-48.0000,1,31.5,Fluxo 4: 31.500 Mbits/s
+8,48.0000-49.0000,1,31.5,Fluxo 4: 31.500 Mbits/s
+8,49.0000-50.0864,1,19.2,Fluxo 4: 19.200 Mbits/s

@@ -1,0 +1,218 @@
+{
+    "options"  : {
+        "version" : "1",
+        "zoom"    : "1.25"
+    },
+    "canvases" : {
+        "c0" : {
+            "name" : "Canvas0"
+        }
+    },
+    "nodes"    : {
+        "n0" : {
+            "type"                : "pc",
+            "name"                : "pc1",
+            "auto_default_routes" : "enabled",
+            "ifaces"              : {
+                "ifc0" : {
+                    "type"       : "lo",
+                    "name"       : "lo0",
+                    "ipv4_addrs" : ["127.0.0.1/8"],
+                    "ipv6_addrs" : ["::1/128"]
+                },
+                "ifc1" : {
+                    "type"       : "phys",
+                    "name"       : "eth0",
+                    "link"       : "l0",
+                    "ipv4_addrs" : ["10.0.0.20/24"],
+                    "ipv6_addrs" : ["fc00::20/64"],
+                    "mac"        : "42:00:aa:00:00:00"
+                }
+            },
+            "canvas"              : "c0",
+            "iconcoords"          : "96 96",
+            "labelcoords"         : "96 126"
+        },
+        "n1" : {
+            "type"                : "pc",
+            "name"                : "pc2",
+            "auto_default_routes" : "enabled",
+            "ifaces"              : {
+                "ifc0" : {
+                    "type"       : "lo",
+                    "name"       : "lo0",
+                    "ipv4_addrs" : ["127.0.0.1/8"],
+                    "ipv6_addrs" : ["::1/128"]
+                },
+                "ifc1" : {
+                    "type"       : "phys",
+                    "name"       : "eth0",
+                    "link"       : "l3",
+                    "ipv4_addrs" : ["10.0.3.20/24"],
+                    "ipv6_addrs" : ["fc00:3::20/64"],
+                    "mac"        : "42:00:aa:00:00:07"
+                }
+            },
+            "canvas"              : "c0",
+            "iconcoords"          : "720 96",
+            "labelcoords"         : "720 126"
+        },
+        "n2" : {
+            "type"                : "router",
+            "name"                : "router1",
+            "model"               : "frr",
+            "router_config"       : "rip 1 ripng 1 ospf 0 ospf6 0 bgp 0",
+            "auto_default_routes" : "enabled",
+            "ifaces"              : {
+                "ifc0" : {
+                    "type"       : "lo",
+                    "name"       : "lo0",
+                    "ipv4_addrs" : ["127.0.0.1/8"],
+                    "ipv6_addrs" : ["::1/128"]
+                },
+                "ifc1" : {
+                    "type"       : "phys",
+                    "name"       : "eth0",
+                    "link"       : "l0",
+                    "ipv4_addrs" : ["10.0.0.1/24"],
+                    "ipv6_addrs" : ["fc00::1/64"],
+                    "mac"        : "42:00:aa:00:00:01"
+                },
+                "ifc2" : {
+                    "type"       : "phys",
+                    "name"       : "eth1",
+                    "link"       : "l1",
+                    "ipv4_addrs" : ["10.0.1.1/24"],
+                    "ipv6_addrs" : ["fc00:1::1/64"],
+                    "mac"        : "42:00:aa:00:00:03"
+                },
+                "ifc3" : {
+                    "type"       : "phys",
+                    "name"       : "eth2",
+                    "link"       : "l2",
+                    "ipv4_addrs" : ["10.0.2.1/24"],
+                    "ipv6_addrs" : ["fc00:2::1/64"],
+                    "mac"        : "42:00:aa:00:00:04"
+                }
+            },
+            "canvas"              : "c0",
+            "iconcoords"          : "240 288",
+            "labelcoords"         : "240 313"
+        },
+        "n3" : {
+            "type"                : "router",
+            "name"                : "router2",
+            "model"               : "frr",
+            "router_config"       : "rip 1 ripng 1 ospf 0 ospf6 0 bgp 0",
+            "auto_default_routes" : "enabled",
+            "ifaces"              : {
+                "ifc0" : {
+                    "type"       : "lo",
+                    "name"       : "lo0",
+                    "ipv4_addrs" : ["127.0.0.1/8"],
+                    "ipv6_addrs" : ["::1/128"]
+                },
+                "ifc1" : {
+                    "type"       : "phys",
+                    "name"       : "eth0",
+                    "link"       : "l2",
+                    "ipv4_addrs" : ["10.0.2.2/24"],
+                    "ipv6_addrs" : ["fc00:2::2/64"],
+                    "mac"        : "42:00:aa:00:00:05"
+                },
+                "ifc2" : {
+                    "type"       : "phys",
+                    "name"       : "eth1",
+                    "link"       : "l3",
+                    "ipv4_addrs" : ["10.0.3.1/24"],
+                    "ipv6_addrs" : ["fc00:3::1/64"],
+                    "mac"        : "42:00:aa:00:00:06"
+                },
+                "ifc3" : {
+                    "type"       : "phys",
+                    "name"       : "eth2",
+                    "link"       : "l4",
+                    "ipv4_addrs" : ["10.0.4.1/24"],
+                    "ipv6_addrs" : ["fc00:4::1/64"],
+                    "mac"        : "42:00:aa:00:00:08"
+                }
+            },
+            "canvas"              : "c0",
+            "iconcoords"          : "576 288",
+            "labelcoords"         : "576 313"
+        },
+        "n4" : {
+            "type"                : "pc",
+            "name"                : "pc3",
+            "auto_default_routes" : "enabled",
+            "ifaces"              : {
+                "ifc0" : {
+                    "type"       : "lo",
+                    "name"       : "lo0",
+                    "ipv4_addrs" : ["127.0.0.1/8"],
+                    "ipv6_addrs" : ["::1/128"]
+                },
+                "ifc1" : {
+                    "type"       : "phys",
+                    "name"       : "eth0",
+                    "link"       : "l1",
+                    "ipv4_addrs" : ["10.0.1.20/24"],
+                    "ipv6_addrs" : ["fc00:1::20/64"],
+                    "mac"        : "42:00:aa:00:00:02"
+                }
+            },
+            "canvas"              : "c0",
+            "iconcoords"          : "96 480",
+            "labelcoords"         : "96 510"
+        },
+        "n5" : {
+            "type"                : "pc",
+            "name"                : "pc4",
+            "auto_default_routes" : "enabled",
+            "ifaces"              : {
+                "ifc0" : {
+                    "type"       : "lo",
+                    "name"       : "lo0",
+                    "ipv4_addrs" : ["127.0.0.1/8"],
+                    "ipv6_addrs" : ["::1/128"]
+                },
+                "ifc1" : {
+                    "type"       : "phys",
+                    "name"       : "eth0",
+                    "link"       : "l4",
+                    "ipv4_addrs" : ["10.0.4.20/24"],
+                    "ipv6_addrs" : ["fc00:4::20/64"],
+                    "mac"        : "42:00:aa:00:00:09"
+                }
+            },
+            "canvas"              : "c0",
+            "iconcoords"          : "720 504",
+            "labelcoords"         : "720 534"
+        }
+    },
+    "links"    : {
+        "l0" : {
+            "peers"        : "n0 n2",
+            "peers_ifaces" : "ifc1 ifc1"
+        },
+        "l1" : {
+            "peers"        : "n4 n2",
+            "peers_ifaces" : "ifc1 ifc2",
+            "bandwidth"    : "100000000"
+        },
+        "l2" : {
+            "peers"        : "n2 n3",
+            "peers_ifaces" : "ifc3 ifc1",
+            "bandwidth"    : "100000000"
+        },
+        "l3" : {
+            "peers"        : "n3 n1",
+            "peers_ifaces" : "ifc2 ifc1"
+        },
+        "l4" : {
+            "peers"        : "n3 n5",
+            "peers_ifaces" : "ifc3 ifc1",
+            "bandwidth"    : "100000000"
+        }
+    }
+}
